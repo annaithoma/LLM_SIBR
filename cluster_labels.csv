@@ -1,0 +1,8045 @@
+index,continent,output,output_clean
+0,1,"{
+  ""tags"": [
+    ""Cultural Psychology of Surprise"",
+    ""Holistic Theories"",
+    ""Recognition of Contradiction"",
+    ""East Asian Cognitive Style""
+  ]
+}","{
+  ""tags"": [
+    ""Cultural Psychology of Surprise"",
+    ""Holistic Theories"",
+    ""Recognition of Contradiction"",
+    ""East Asian Cognitive Style""
+  ]
+}"
+1,1,"{
+  ""tags"": [
+    ""Bilingualism"",
+    ""Metacognitive"",
+    ""Language"",
+    ""Segmentation"",
+    ""Confidence""
+  ]
+}","{
+  ""tags"": [
+    ""Bilingualism"",
+    ""Metacognitive"",
+    ""Language"",
+    ""Segmentation"",
+    ""Confidence""
+  ]
+}"
+2,1,"{
+  ""tags"": [
+    ""Infant Development"",
+    ""Error in Development"",
+    ""Reinforcement Learning"",
+    ""Child Development"",
+    ""Error Reduction""
+  ]
+}","{
+  ""tags"": [
+    ""Infant Development"",
+    ""Error in Development"",
+    ""Reinforcement Learning"",
+    ""Child Development"",
+    ""Error Reduction""
+  ]
+}"
+3,1,"{
+  ""tags"": [
+    ""probability matching"",
+    ""choice under uncertainty"",
+    ""intuition"",
+    ""deliberation"",
+    ""adaptive response""
+  ]
+}","{
+  ""tags"": [
+    ""probability matching"",
+    ""choice under uncertainty"",
+    ""intuition"",
+    ""deliberation"",
+    ""adaptive response""
+  ]
+}"
+4,1,"{
+  ""tags"": [
+    ""Stochastic Choice"",
+    ""Conscious Decision"",
+    ""Preference Reversal"",
+    ""Conscious Stochastic Preference""
+  ]
+}","{
+  ""tags"": [
+    ""Stochastic Choice"",
+    ""Conscious Decision"",
+    ""Preference Reversal"",
+    ""Conscious Stochastic Preference""
+  ]
+}"
+5,1,"{
+  ""tags"": [
+    ""Infant Probability Reasoning"",
+    ""Single-Event Probability"",
+    ""Large Set Sizes"",
+    ""Choice Paradigm""
+  ]
+}","{
+  ""tags"": [
+    ""Infant Probability Reasoning"",
+    ""Single-Event Probability"",
+    ""Large Set Sizes"",
+    ""Choice Paradigm""
+  ]
+}"
+6,1,"{
+  ""tags"": [
+    ""sequential choice"",
+    ""reinforcement"",
+    ""balance"",
+    ""psychological frameworks""
+  ]
+}","{
+  ""tags"": [
+    ""sequential choice"",
+    ""reinforcement"",
+    ""balance"",
+    ""psychological frameworks""
+  ]
+}"
+7,1,"{
+  ""tags"": [
+    ""Heated Tobacco Product Adoption"",
+    ""South Korea Smoking"",
+    ""Decision Process Modeling"",
+    ""Health Policy Design""
+  ]
+}","{
+  ""tags"": [
+    ""Heated Tobacco Product Adoption"",
+    ""South Korea Smoking"",
+    ""Decision Process Modeling"",
+    ""Health Policy Design""
+  ]
+}"
+8,1,"{
+  ""tags"": [
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search""
+  ]
+}","{
+  ""tags"": [
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search"",
+    ""Sex differences in mate search""
+  ]
+}"
+9,1,"{
+  ""tags"": [
+    ""cross-modal associations"",
+    ""statistical learning"",
+    ""perceptual system"",
+    ""modalities""
+  ]
+}","{
+  ""tags"": [
+    ""cross-modal associations"",
+    ""statistical learning"",
+    ""perceptual system"",
+    ""modalities""
+  ]
+}"
+10,1,"{
+  ""tags"": [
+    ""Temporal Orienting"",
+    ""Auditory Event Related Potential"",
+    ""Temporal Sequence"",
+    ""Predictable Stimulus""
+  ]
+}","{
+  ""tags"": [
+    ""Temporal Orienting"",
+    ""Auditory Event Related Potential"",
+    ""Temporal Sequence"",
+    ""Predictable Stimulus""
+  ]
+}"
+11,1,"{
+  ""tags"": [
+    ""Schema bias"",
+    ""Source monitoring"",
+    ""Probability matching"",
+    ""Schematic knowledge""
+  ]
+}","{
+  ""tags"": [
+    ""Schema bias"",
+    ""Source monitoring"",
+    ""Probability matching"",
+    ""Schematic knowledge""
+  ]
+}"
+12,1,"{
+  ""tags"": [
+    ""Insight Problem Solving"",
+    ""Dynamic Constraints"",
+    ""Information Processing"",
+    ""Strategic Moves""
+  ]
+}","{
+  ""tags"": [
+    ""Insight Problem Solving"",
+    ""Dynamic Constraints"",
+    ""Information Processing"",
+    ""Strategic Moves""
+  ]
+}"
+13,1,"{
+  ""tags"": [
+    ""Construal Level"",
+    ""Subjective Probability"",
+    ""Cognitive Distance"",
+    ""Probability Judgments""
+  ]
+}","{
+  ""tags"": [
+    ""Construal Level"",
+    ""Subjective Probability"",
+    ""Cognitive Distance"",
+    ""Probability Judgments""
+  ]
+}"
+14,1,"{
+  ""tags"": [
+    ""Multisensory Decoding"",
+    ""Neural Decoding"",
+    ""Multisensory Integration"",
+    ""Cue Integration""
+  ]
+}","{
+  ""tags"": [
+    ""Multisensory Decoding"",
+    ""Neural Decoding"",
+    ""Multisensory Integration"",
+    ""Cue Integration""
+  ]
+}"
+15,1,"{
+  ""tags"": [
+    ""Ant Navigation"",
+    ""Route Learning"",
+    ""Path Integration"",
+    ""Visual Cues""
+  ]
+}","{
+  ""tags"": [
+    ""Ant Navigation"",
+    ""Route Learning"",
+    ""Path Integration"",
+    ""Visual Cues""
+  ]
+}"
+16,1,"{
+  ""tags"": [
+    ""Consistency Resolution"",
+    ""Explanatory Hypothesis"",
+    ""Rational Change"",
+    ""Cognitive Relevance""
+  ]
+}","{
+  ""tags"": [
+    ""Consistency Resolution"",
+    ""Explanatory Hypothesis"",
+    ""Rational Change"",
+    ""Cognitive Relevance""
+  ]
+}"
+17,1,"{
+  ""tags"": [
+    ""judgmental overconfidence"",
+    ""behavioral economic models"",
+    ""single-cue probability learning"",
+    ""signal reliability""
+  ]
+}","{
+  ""tags"": [
+    ""judgmental overconfidence"",
+    ""behavioral economic models"",
+    ""single-cue probability learning"",
+    ""signal reliability""
+  ]
+}"
+18,1,"{
+  ""tags"": [
+    ""problem-solving development"",
+    ""knowledge representation"",
+    ""information integration theory"",
+    ""sequential decision rules""
+  ]
+}","{
+  ""tags"": [
+    ""problem-solving development"",
+    ""knowledge representation"",
+    ""information integration theory"",
+    ""sequential decision rules""
+  ]
+}"
+19,1,"{
+  ""tags"": [
+    ""Language Learning"",
+    ""Object Names"",
+    ""Category Formation"",
+    ""Cross-Situational Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Language Learning"",
+    ""Object Names"",
+    ""Category Formation"",
+    ""Cross-Situational Learning""
+  ]
+}"
+20,1,"{
+  ""tags"": [
+    ""Human Decision Making"",
+    ""Interactive Landslide Simulator"",
+    ""Reinforcement Learning"",
+    ""Decision Theory"",
+    ""Landslide Risk Management""
+  ]
+}","{
+  ""tags"": [
+    ""Human Decision Making"",
+    ""Interactive Landslide Simulator"",
+    ""Reinforcement Learning"",
+    ""Decision Theory"",
+    ""Landslide Risk Management""
+  ]
+}"
+21,1,"{
+  ""tags"": [
+    ""cross-situational word learning"",
+    ""referential learning"",
+    ""cross-situational statistics"",
+    ""word-to-referent mapping""
+  ]
+}","{
+  ""tags"": [
+    ""cross-situational word learning"",
+    ""referential learning"",
+    ""cross-situational statistics"",
+    ""word-to-referent mapping""
+  ]
+}"
+22,1,"{
+  ""tags"": [
+    ""Syllogistic reasoning"",
+    ""Deductive reasoning"",
+    ""Belief-based reasoning"",
+    ""Verbal reasoning theory""
+  ]
+}","{
+  ""tags"": [
+    ""Syllogistic reasoning"",
+    ""Deductive reasoning"",
+    ""Belief-based reasoning"",
+    ""Verbal reasoning theory""
+  ]
+}"
+23,1,"{
+  ""tags"": [
+    ""Linguistic Entrenchment"",
+    ""Statistical Learning"",
+    ""Prior Knowledge"",
+    ""Modality Specificity""
+  ]
+}","{
+  ""tags"": [
+    ""Linguistic Entrenchment"",
+    ""Statistical Learning"",
+    ""Prior Knowledge"",
+    ""Modality Specificity""
+  ]
+}"
+24,1,"{
+  ""tags"": [
+    ""Estimating Stimuli From Contrasting Categories"",
+    ""Boundary Effects in Stimulus Estimation"",
+    ""Category Boundary Effects"",
+    ""Truncation of Stimulus Estimates""
+  ]
+}","{
+  ""tags"": [
+    ""Estimating Stimuli From Contrasting Categories"",
+    ""Boundary Effects in Stimulus Estimation"",
+    ""Category Boundary Effects"",
+    ""Truncation of Stimulus Estimates""
+  ]
+}"
+25,1,"{
+  ""tags"": [
+    ""change detection"",
+    ""proportion detection"",
+    ""inductive learning"",
+    ""sample size effects""
+  ]
+}","{
+  ""tags"": [
+    ""change detection"",
+    ""proportion detection"",
+    ""inductive learning"",
+    ""sample size effects""
+  ]
+}"
+26,1,"{
+  ""tags"": [
+    ""Hot Hand Fallacy"",
+    ""Conditional Dependence"",
+    ""Streak Selection Bias"",
+    ""Empirical Work""
+  ]
+}","{
+  ""tags"": [
+    ""Hot Hand Fallacy"",
+    ""Conditional Dependence"",
+    ""Streak Selection Bias"",
+    ""Empirical Work""
+  ]
+}"
+27,1,"{
+  ""tags"": [
+    ""Food Stockpiling"",
+    ""Online Shopping"",
+    ""China Food"",
+    ""Stockpiling Behavior"",
+    ""Household Food""
+  ]
+}","{
+  ""tags"": [
+    ""Food Stockpiling"",
+    ""Online Shopping"",
+    ""China Food"",
+    ""Stockpiling Behavior"",
+    ""Household Food""
+  ]
+}"
+28,1,"{
+  ""tags"": [
+    ""Planning"",
+    ""Rule-Governed Behavior"",
+    ""Motivational Limits"",
+    ""Dynamic Consistency""
+  ]
+}","{
+  ""tags"": [
+    ""Planning"",
+    ""Rule-Governed Behavior"",
+    ""Motivational Limits"",
+    ""Dynamic Consistency""
+  ]
+}"
+29,1,"{
+  ""tags"": [
+    ""Theory of Mind"",
+    ""Persecutory Delusions"",
+    ""Psychotic Depression"",
+    ""Probabilistic Reasoning"",
+    ""Cognitive Features""
+  ]
+}","{
+  ""tags"": [
+    ""Theory of Mind"",
+    ""Persecutory Delusions"",
+    ""Psychotic Depression"",
+    ""Probabilistic Reasoning"",
+    ""Cognitive Features""
+  ]
+}"
+30,1,"{
+  ""tags"": [
+    ""confidence processing"",
+    ""decisional locus"",
+    ""postdecisional locus"",
+    ""sensory discrimination task""
+  ]
+}","{
+  ""tags"": [
+    ""confidence processing"",
+    ""decisional locus"",
+    ""postdecisional locus"",
+    ""sensory discrimination task""
+  ]
+}"
+31,1,"{
+  ""tags"": [
+    ""Attention"",
+    ""Implicit Sequence Learning"",
+    ""Selection Mechanism"",
+    ""Implicit Learning"",
+    ""Attentional Control""
+  ]
+}","{
+  ""tags"": [
+    ""Attention"",
+    ""Implicit Sequence Learning"",
+    ""Selection Mechanism"",
+    ""Implicit Learning"",
+    ""Attentional Control""
+  ]
+}"
+32,1,"{
+  ""tags"": [
+    ""markedness"",
+    ""linguistic"",
+    ""predictability"",
+    ""meaning"",
+    ""predictability_account""
+  ]
+}","{
+  ""tags"": [
+    ""markedness"",
+    ""linguistic"",
+    ""predictability"",
+    ""meaning"",
+    ""predictability_account""
+  ]
+}"
+33,1,"{
+  ""tags"": [
+    ""Moros problem-solving"",
+    ""cultural influence on decision making"",
+    ""strategic problem solving"",
+    ""cross-cultural comparison of problem solving strategies""
+  ]
+}","{
+  ""tags"": [
+    ""Moros problem-solving"",
+    ""cultural influence on decision making"",
+    ""strategic problem solving"",
+    ""cross-cultural comparison of problem solving strategies""
+  ]
+}"
+34,1,"{
+  ""tags"": [
+    ""Contingency Learning"",
+    ""Cue-Density Effects"",
+    ""Normative Standards"",
+    ""Causal Judgment""
+  ]
+}","{
+  ""tags"": [
+    ""Contingency Learning"",
+    ""Cue-Density Effects"",
+    ""Normative Standards"",
+    ""Causal Judgment""
+  ]
+}"
+35,1,"{
+  ""tags"": [
+    ""Children's Predictions"",
+    ""Consistency in Human Behavior"",
+    ""Inductive Reasoning in Children"",
+    ""Theories of Mind in Children""
+  ]
+}","{
+  ""tags"": [
+    ""Children's Predictions"",
+    ""Consistency in Human Behavior"",
+    ""Inductive Reasoning in Children"",
+    ""Theories of Mind in Children""
+  ]
+}"
+36,1,"{
+  ""tags"": [
+    ""cue validity"",
+    ""probabilistic inference"",
+    ""single-cue probability learning"",
+    ""hypothesis construction"",
+    ""memory-based learning""
+  ]
+}","{
+  ""tags"": [
+    ""cue validity"",
+    ""probabilistic inference"",
+    ""single-cue probability learning"",
+    ""hypothesis construction"",
+    ""memory-based learning""
+  ]
+}"
+37,1,"{
+  ""tags"": [
+    ""Decision Making in Causal Learning"",
+    ""Temporal Probability Information"",
+    ""Conditional Probability"",
+    ""Interventional Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Decision Making in Causal Learning"",
+    ""Temporal Probability Information"",
+    ""Conditional Probability"",
+    ""Interventional Learning""
+  ]
+}"
+38,1,"{
+  ""tags"": [
+    ""Risky Choice"",
+    ""Behavioral Reinforcement"",
+    ""Strategy Matching"",
+    ""Feedback Effects""
+  ]
+}","{
+  ""tags"": [
+    ""Risky Choice"",
+    ""Behavioral Reinforcement"",
+    ""Strategy Matching"",
+    ""Feedback Effects""
+  ]
+}"
+39,1,"{
+  ""tags"": [
+    ""Criteria Instability"",
+    ""Choice Advantages"",
+    ""Loss Aversion"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Criteria Instability"",
+    ""Choice Advantages"",
+    ""Loss Aversion"",
+    ""Decision Making""
+  ]
+}"
+40,1,"{
+  ""tags"": [
+    ""Cage-Based Training"",
+    ""Non-Human Primate Studies"",
+    ""Neurophysiological Research"",
+    ""Animal Enrichment"",
+    ""Behavioral Task Training""
+  ]
+}","{
+  ""tags"": [
+    ""Cage-Based Training"",
+    ""Non-Human Primate Studies"",
+    ""Neurophysiological Research"",
+    ""Animal Enrichment"",
+    ""Behavioral Task Training""
+  ]
+}"
+41,1,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Honeybees"",
+    ""Associative Learning"",
+    ""Inhibitory Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Honeybees"",
+    ""Associative Learning"",
+    ""Inhibitory Learning""
+  ]
+}"
+42,1,"{
+  ""tags"": [
+    ""Decision Making"",
+    ""Probabilistic Learning"",
+    ""Brain Stimulation"",
+    ""Hemispheric Asymmetry""
+  ]
+}","{
+  ""tags"": [
+    ""Decision Making"",
+    ""Probabilistic Learning"",
+    ""Brain Stimulation"",
+    ""Hemispheric Asymmetry""
+  ]
+}"
+43,1,"{
+  ""tags"": [
+    ""cross-situational statistical learning"",
+    ""older adults"",
+    ""statistical learning"",
+    ""hyper-binding""
+  ]
+}","{
+  ""tags"": [
+    ""cross-situational statistical learning"",
+    ""older adults"",
+    ""statistical learning"",
+    ""hyper-binding""
+  ]
+}"
+44,1,"{
+  ""tags"": [
+    ""base-rate fallacy"",
+    ""sequential categories"",
+    ""trial estimation"",
+    ""base-rate utilization""
+  ]
+}","{
+  ""tags"": [
+    ""base-rate fallacy"",
+    ""sequential categories"",
+    ""trial estimation"",
+    ""base-rate utilization""
+  ]
+}"
+45,1,"{
+  ""tags"": [
+    ""ratio rule"",
+    ""choice probabilities"",
+    ""prototype-based categorization"",
+    ""connectionist models""
+  ]
+}","{
+  ""tags"": [
+    ""ratio rule"",
+    ""choice probabilities"",
+    ""prototype-based categorization"",
+    ""connectionist models""
+  ]
+}"
+46,1,"{
+  ""tags"": [
+    ""escalation"",
+    ""commitment"",
+    ""choice"",
+    ""accountability"",
+    ""effortful""
+  ]
+}","{
+  ""tags"": [
+    ""escalation"",
+    ""commitment"",
+    ""choice"",
+    ""accountability"",
+    ""effortful""
+  ]
+}"
+47,1,"{
+  ""tags"": [
+    ""Proprioceptive stimuli"",
+    ""Habit formation"",
+    ""Behavioral sequences"",
+    ""Interresponse time""
+  ]
+}","{
+  ""tags"": [
+    ""Proprioceptive stimuli"",
+    ""Habit formation"",
+    ""Behavioral sequences"",
+    ""Interresponse time""
+  ]
+}"
+48,1,"{
+  ""tags"": [
+    ""Quantum Measurement"",
+    ""Consciousness and the Soul"",
+    ""Neuroscience"",
+    ""Neural Networks"",
+    ""Cognitive Science""
+  ]
+}","{
+  ""tags"": [
+    ""Quantum Measurement"",
+    ""Consciousness and the Soul"",
+    ""Neuroscience"",
+    ""Neural Networks"",
+    ""Cognitive Science""
+  ]
+}"
+49,1,"{
+  ""tags"": [
+    ""stakeholder dynamics"",
+    ""change process"",
+    ""time dynamics"",
+    ""stakeholder theory""
+  ]
+}","{
+  ""tags"": [
+    ""stakeholder dynamics"",
+    ""change process"",
+    ""time dynamics"",
+    ""stakeholder theory""
+  ]
+}"
+50,2,"{
+  ""tags"": [
+    ""mesolimbic dopamine release"",
+    ""reward seeking"",
+    ""pavlovian-to-instrumental transfer"",
+    ""reward prediction error""
+  ]
+}","{
+  ""tags"": [
+    ""mesolimbic dopamine release"",
+    ""reward seeking"",
+    ""pavlovian-to-instrumental transfer"",
+    ""reward prediction error""
+  ]
+}"
+51,2,"{
+  ""tags"": [
+    ""Low-Dose Ethanol"",
+    ""Ventral Hippocampus"",
+    ""Reward Learning"",
+    ""Male Mice"",
+    ""Hippocampal Activity""
+  ]
+}","{
+  ""tags"": [
+    ""Low-Dose Ethanol"",
+    ""Ventral Hippocampus"",
+    ""Reward Learning"",
+    ""Male Mice"",
+    ""Hippocampal Activity""
+  ]
+}"
+52,2,"{
+  ""tags"": [
+    ""Proopiomelanocortin"",
+    ""Nucleus Accumbens"",
+    ""Reward Learning"",
+    ""Operant Self-Administration"",
+    ""POMC Projections""
+  ]
+}","{
+  ""tags"": [
+    ""Proopiomelanocortin"",
+    ""Nucleus Accumbens"",
+    ""Reward Learning"",
+    ""Operant Self-Administration"",
+    ""POMC Projections""
+  ]
+}"
+53,2,"{
+  ""tags"": [
+    ""Dopamine-dependent temporal contiguity"",
+    ""Striatal synaptic plasticity"",
+    ""Reward learning"",
+    ""Dopamine bursts"",
+    ""Reinforcement plasticity""
+  ]
+}","{
+  ""tags"": [
+    ""Dopamine-dependent temporal contiguity"",
+    ""Striatal synaptic plasticity"",
+    ""Reward learning"",
+    ""Dopamine bursts"",
+    ""Reinforcement plasticity""
+  ]
+}"
+54,2,"{
+  ""tags"": [
+    ""Hypofrontality"",
+    ""Posterior Hyperactivity"",
+    ""Schizophrenia"",
+    ""Neuroimaging"",
+    ""Behavioral Markers""
+  ]
+}","{
+  ""tags"": [
+    ""Hypofrontality"",
+    ""Posterior Hyperactivity"",
+    ""Schizophrenia"",
+    ""Neuroimaging"",
+    ""Behavioral Markers""
+  ]
+}"
+55,2,"{
+  ""tags"": [
+    ""Neuroplasticity"",
+    ""GABAergic"",
+    ""Reward"",
+    ""DeepBrainStimulation""
+  ]
+}","{
+  ""tags"": [
+    ""Neuroplasticity"",
+    ""GABAergic"",
+    ""Reward"",
+    ""DeepBrainStimulation""
+  ]
+}"
+56,2,"{
+  ""tags"": [
+    ""DA terminals"",
+    ""VTA dopamine"",
+    ""mesolimbic dopamine"",
+    ""DA neurons"",
+    ""DA terminals"",
+    ""VTA dopamine"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals","{
+  ""tags"": [
+    ""DA terminals"",
+    ""VTA dopamine"",
+    ""mesolimbic dopamine"",
+    ""DA neurons"",
+    ""DA terminals"",
+    ""VTA dopamine"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"",
+    ""DA terminals"" ] }"
+57,2,"{
+  ""tags"": [
+    ""Basal Ganglia"",
+    ""Reward Based Motor Adaptation"",
+    ""Motor Adaptation"",
+    ""Neural Encoding"",
+    ""Reward Prediction Errors""
+  ]
+}","{
+  ""tags"": [
+    ""Basal Ganglia"",
+    ""Reward Based Motor Adaptation"",
+    ""Motor Adaptation"",
+    ""Neural Encoding"",
+    ""Reward Prediction Errors""
+  ]
+}"
+58,2,"{
+  ""tags"": [
+    ""Sensorimotor learning"",
+    ""Reward modulation"",
+    ""Caudate nucleus"",
+    ""Motor learning"",
+    ""Striatum""
+  ]
+}","{
+  ""tags"": [
+    ""Sensorimotor learning"",
+    ""Reward modulation"",
+    ""Caudate nucleus"",
+    ""Motor learning"",
+    ""Striatum""
+  ]
+}"
+59,2,"{
+  ""tags"": [
+    ""Ventral subicular lesion"",
+    ""Pro-social empathy"",
+    ""Social cognition"",
+    ""Hippocampal formation""
+  ]
+}","{
+  ""tags"": [
+    ""Ventral subicular lesion"",
+    ""Pro-social empathy"",
+    ""Social cognition"",
+    ""Hippocampal formation""
+  ]
+}"
+60,2,"{
+  ""tags"": [
+    ""Nucleus Accumbens"",
+    ""Computational Neuroscience"",
+    ""Single Cell Modeling"",
+    ""Circuit Level Modeling""
+  ]
+}","{
+  ""tags"": [
+    ""Nucleus Accumbens"",
+    ""Computational Neuroscience"",
+    ""Single Cell Modeling"",
+    ""Circuit Level Modeling""
+  ]
+}"
+61,2,"{
+  ""tags"": [
+    ""Basal ganglia"",
+    ""Movement"",
+    ""Neural activity"",
+    ""Locomotor action""
+  ]
+}","{
+  ""tags"": [
+    ""Basal ganglia"",
+    ""Movement"",
+    ""Neural activity"",
+    ""Locomotor action""
+  ]
+}"
+62,2,"{
+  ""tags"": [
+    ""Dopamine Dynamics"",
+    ""Reward Processing"",
+    ""Rapid Release"",
+    ""Intra-oral Tastant Administration""
+  ]
+}","{
+  ""tags"": [
+    ""Dopamine Dynamics"",
+    ""Reward Processing"",
+    ""Rapid Release"",
+    ""Intra-oral Tastant Administration""
+  ]
+}"
+63,2,"{
+  ""tags"": [
+    ""Dorsal tegmental dopamine neurons"",
+    ""Fear conditioning"",
+    ""Pavlovian fear"",
+    ""Functional neuroanatomy"",
+    ""Hebbian plasticity""
+  ]
+}","{
+  ""tags"": [
+    ""Dorsal tegmental dopamine neurons"",
+    ""Fear conditioning"",
+    ""Pavlovian fear"",
+    ""Functional neuroanatomy"",
+    ""Hebbian plasticity""
+  ]
+}"
+64,2,"{
+  ""tags"": [
+    ""Motor Cortex"",
+    ""Basal Ganglia"",
+    ""Reinforcement Learning"",
+    ""Motor Control"",
+    ""Neural Synaptic Connections""
+  ]
+}","{
+  ""tags"": [
+    ""Motor Cortex"",
+    ""Basal Ganglia"",
+    ""Reinforcement Learning"",
+    ""Motor Control"",
+    ""Neural Synaptic Connections""
+  ]
+}"
+65,2,"{
+  ""tags"": [
+    ""associative learning"",
+    ""neurotransmitter release"",
+    ""axonal compartmentalization"",
+    ""computational capacity""
+  ]
+}","{
+  ""tags"": [
+    ""associative learning"",
+    ""neurotransmitter release"",
+    ""axonal compartmentalization"",
+    ""computational capacity""
+  ]
+}"
+66,2,"{
+  ""tags"": [
+    ""VTA dopamine neuron activity"",
+    ""social prediction error"",
+    ""social reinforcement learning"",
+    ""social interaction and motivation""
+  ]
+}","{
+  ""tags"": [
+    ""VTA dopamine neuron activity"",
+    ""social prediction error"",
+    ""social reinforcement learning"",
+    ""social interaction and motivation""
+  ]
+}"
+67,2,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Brain"",
+    ""Neural Basis"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Brain"",
+    ""Neural Basis"",
+    ""Decision Making""
+  ]
+}"
+68,2,"{
+  ""tags"": [
+    ""Dopamine Modulates Dynamic Decision-Making"",
+    ""Foraging Behavior"",
+    ""Reward Processing"",
+    ""Ecological Decision-Making""
+  ]
+}","{
+  ""tags"": [
+    ""Dopamine Modulates Dynamic Decision-Making"",
+    ""Foraging Behavior"",
+    ""Reward Processing"",
+    ""Ecological Decision-Making""
+  ]
+}"
+69,2,"{
+  ""tags"": [
+    ""Psychedelic Therapy"",
+    ""Predictive Processing"",
+    ""Reinforcement Learning"",
+    ""Serotonin"",
+    ""Psychotherapy""
+  ]
+}","{
+  ""tags"": [
+    ""Psychedelic Therapy"",
+    ""Predictive Processing"",
+    ""Reinforcement Learning"",
+    ""Serotonin"",
+    ""Psychotherapy""
+  ]
+}"
+70,2,"{
+  ""tags"": [
+    ""phasic dopamine release"",
+    ""reward-prediction errors"",
+    ""optogenetic stimulation"",
+    ""dopamine signalling""
+  ]
+}","{
+  ""tags"": [
+    ""phasic dopamine release"",
+    ""reward-prediction errors"",
+    ""optogenetic stimulation"",
+    ""dopamine signalling""
+  ]
+}"
+71,2,"{
+  ""tags"": [
+    ""Long-term depression"",
+    ""Dopamine modulation"",
+    ""Mesolimbic system"",
+    ""Addiction mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Long-term depression"",
+    ""Dopamine modulation"",
+    ""Mesolimbic system"",
+    ""Addiction mechanisms""
+  ]
+}"
+72,2,"{
+  ""tags"": [
+    ""Nicotine Reward"",
+    ""Anhedonia Depression"",
+    ""Dopaminergic System"",
+    ""Conditioned Place Preference""
+  ]
+}","{
+  ""tags"": [
+    ""Nicotine Reward"",
+    ""Anhedonia Depression"",
+    ""Dopaminergic System"",
+    ""Conditioned Place Preference""
+  ]
+}"
+73,2,"{
+  ""tags"": [
+    ""Basal ganglia"",
+    ""Reward-dependent plasticity"",
+    ""Spiking model"",
+    ""Neural circuitry"",
+    ""Reward prediction error""
+  ]
+}","{
+  ""tags"": [
+    ""Basal ganglia"",
+    ""Reward-dependent plasticity"",
+    ""Spiking model"",
+    ""Neural circuitry"",
+    ""Reward prediction error""
+  ]
+}"
+74,2,"{
+  ""tags"": [
+    ""Cerebellum"",
+    ""Social Behavior"",
+    ""Neurotrophin Receptor"",
+    ""Developmental Abnormalities""
+  ]
+}","{
+  ""tags"": [
+    ""Cerebellum"",
+    ""Social Behavior"",
+    ""Neurotrophin Receptor"",
+    ""Developmental Abnormalities""
+  ]
+}"
+75,2,"{
+  ""tags"": [
+    ""Dopamine"",
+    ""Reward"",
+    ""Cue"",
+    ""Motivation""
+  ]
+}","{
+  ""tags"": [
+    ""Dopamine"",
+    ""Reward"",
+    ""Cue"",
+    ""Motivation""
+  ]
+}"
+76,2,"{
+  ""tags"": [
+    ""contextual fear"",
+    ""prefrontal cortex"",
+    ""hippocampus"",
+    ""amygdala"",
+    ""limbic cortico-striatal circuit""
+  ]
+}","{
+  ""tags"": [
+    ""contextual fear"",
+    ""prefrontal cortex"",
+    ""hippocampus"",
+    ""amygdala"",
+    ""limbic cortico-striatal circuit""
+  ]
+}"
+77,2,"{
+  ""tags"": [
+    ""Working Memory Reinforcement Learning"",
+    ""Prefrontal Cortex"",
+    ""Motor Cortico-Basal Ganglia Loops"",
+    ""Neural Representation"",
+    ""Decision Strategy"",
+    ""Animal Behavior"",
+    ""Human Behavior"",
+    ""Neural Coding"",
+    ""Model-Based Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Working Memory Reinforcement Learning"",
+    ""Prefrontal Cortex"",
+    ""Motor Cortico-Basal Ganglia Loops"",
+    ""Neural Representation"",
+    ""Decision Strategy"",
+    ""Animal Behavior"",
+    ""Human Behavior"",
+    ""Neural Coding"",
+    ""Model-Based Reinforcement Learning""
+  ]
+}"
+78,2,"{
+  ""tags"": [
+    ""Behavioral paradigms"",
+    ""Value-based decision making"",
+    ""Neural systems"",
+    ""Genetic tools"",
+    ""Operant contingency""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral paradigms"",
+    ""Value-based decision making"",
+    ""Neural systems"",
+    ""Genetic tools"",
+    ""Operant contingency""
+  ]
+}"
+79,2,"{
+  ""tags"": [
+    ""Importin α3"",
+    ""Nucleocytoplasmic transport"",
+    ""Reward processing"",
+    ""Motivation"",
+    ""Psychiatric disorders""
+  ]
+}","{
+  ""tags"": [
+    ""Importin α3"",
+    ""Nucleocytoplasmic transport"",
+    ""Reward processing"",
+    ""Motivation"",
+    ""Psychiatric disorders""
+  ]
+}"
+80,2,"{
+  ""tags"": [
+    ""medial prefrontal cortex"",
+    ""reward-seeking behavior"",
+    ""risk of punishment"",
+    ""reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""medial prefrontal cortex"",
+    ""reward-seeking behavior"",
+    ""risk of punishment"",
+    ""reinforcement learning""
+  ]
+}"
+81,2,"{
+  ""tags"": [
+    ""alcohol dependence"",
+    ""negative reinforcement"",
+    ""anticipation"",
+    ""50kHz ultrasonic vocalizations""
+  ]
+}","{
+  ""tags"": [
+    ""alcohol dependence"",
+    ""negative reinforcement"",
+    ""anticipation"",
+    ""50kHz ultrasonic vocalizations""
+  ]
+}"
+82,2,"{
+  ""tags"": [
+    ""AMPAR modulator"",
+    ""Glutamate receptor"",
+    ""Olfactory discrimination"",
+    ""Cognitive enhancement""
+  ]
+}","{
+  ""tags"": [
+    ""AMPAR modulator"",
+    ""Glutamate receptor"",
+    ""Olfactory discrimination"",
+    ""Cognitive enhancement""
+  ]
+}"
+83,2,"{
+  ""tags"": [
+    ""Basal Ganglia"",
+    ""Neural Encoding"",
+    ""Dynamic Cell Assemblies"",
+    ""Temporal Convergence"",
+    ""Neural Coding""
+  ]
+}","{
+  ""tags"": [
+    ""Basal Ganglia"",
+    ""Neural Encoding"",
+    ""Dynamic Cell Assemblies"",
+    ""Temporal Convergence"",
+    ""Neural Coding""
+  ]
+}"
+84,2,"{
+  ""tags"": [
+    ""Galanin"",
+    ""Neurotransmitter"",
+    ""Reward"",
+    ""Amygdala"",
+    ""Hypothalamus""
+  ]
+}","{
+  ""tags"": [
+    ""Galanin"",
+    ""Neurotransmitter"",
+    ""Reward"",
+    ""Amygdala"",
+    ""Hypothalamus""
+  ]
+}"
+85,2,"{
+  ""tags"": [
+    ""Cholinergic Interneurons"",
+    ""Synaptic Plasticity"",
+    ""Extinction Learning"",
+    ""Cocaine-Context Association""
+  ]
+}","{
+  ""tags"": [
+    ""Cholinergic Interneurons"",
+    ""Synaptic Plasticity"",
+    ""Extinction Learning"",
+    ""Cocaine-Context Association""
+  ]
+}"
+86,2,"{
+  ""tags"": [
+    ""monkey pedunculopontine tegmental nucleus"",
+    ""reward and behavioral factors"",
+    ""tonic activity"",
+    ""saccade tasks"",
+    ""reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""monkey pedunculopontine tegmental nucleus"",
+    ""reward and behavioral factors"",
+    ""tonic activity"",
+    ""saccade tasks"",
+    ""reinforcement learning""
+  ]
+}"
+87,2,"{
+  ""tags"": [
+    ""Acute Stress"",
+    ""Dopamine Signaling"",
+    ""Ventral Lateral Striatum"",
+    ""Associative Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Acute Stress"",
+    ""Dopamine Signaling"",
+    ""Ventral Lateral Striatum"",
+    ""Associative Learning""
+  ]
+}"
+88,2,"{
+  ""tags"": [
+    ""anterior cingulate cortex"",
+    ""nucleus accumbens"",
+    ""limbic cortical-ventral striatopallidal systems"",
+    ""reward-related learning""
+  ]
+}","{
+  ""tags"": [
+    ""anterior cingulate cortex"",
+    ""nucleus accumbens"",
+    ""limbic cortical-ventral striatopallidal systems"",
+    ""reward-related learning""
+  ]
+}"
+89,2,"{
+  ""tags"": [
+    ""Neuroprotection"",
+    ""HIV"",
+    ""Pediatric"",
+    ""Neurocognitive"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""HIV-1"",
+    ""Transgenic"",
+    ""Rats"",
+    ""Sex"",
+    ""Neurocognitive"",
+    ""Deficits"",
+    ""Operant"",
+    ""Hormones"",
+    ""Neurorestoration"",
+    ""Signal"",
+    ""Detection"",
+    ""Operant"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""Neurocognitive"",
+    ""HIV-1"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""Neurocognitive","{
+  ""tags"": [
+    ""Neuroprotection"",
+    ""HIV"",
+    ""Pediatric"",
+    ""Neurocognitive"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""HIV-1"",
+    ""Transgenic"",
+    ""Rats"",
+    ""Sex"",
+    ""Neurocognitive"",
+    ""Deficits"",
+    ""Operant"",
+    ""Hormones"",
+    ""Neurorestoration"",
+    ""Signal"",
+    ""Detection"",
+    ""Operant"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""Neurocognitive"",
+    ""HIV-1"",
+    ""Therapeutic"",
+    ""Efficacy"",
+    ""Neurocognitive"" ] }"
+90,2,"{
+  ""tags"": [
+    ""Stimulus-Based Probabilistic Reversal Learning"",
+    ""Behavioral Flexibility"",
+    ""Reward Probability"",
+    ""Probabilistic Reversal Learning"",
+    ""Discrimination Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Stimulus-Based Probabilistic Reversal Learning"",
+    ""Behavioral Flexibility"",
+    ""Reward Probability"",
+    ""Probabilistic Reversal Learning"",
+    ""Discrimination Learning""
+  ]
+}"
+91,2,"{
+  ""tags"": [
+    ""ventral striatum"",
+    ""reward prediction"",
+    ""temporal difference learning"",
+    ""dopaminergic neurons""
+  ]
+}","{
+  ""tags"": [
+    ""ventral striatum"",
+    ""reward prediction"",
+    ""temporal difference learning"",
+    ""dopaminergic neurons""
+  ]
+}"
+92,2,"{
+  ""tags"": [
+    ""melanin-concentrating hormone"",
+    ""reward learning"",
+    ""conditioned reinforcement"",
+    ""Pavlovian-instrumental transfer""
+  ]
+}","{
+  ""tags"": [
+    ""melanin-concentrating hormone"",
+    ""reward learning"",
+    ""conditioned reinforcement"",
+    ""Pavlovian-instrumental transfer""
+  ]
+}"
+93,2,"{
+  ""tags"": [
+    ""object-finding"",
+    ""reward-based"",
+    ""neural-differentiation"",
+    ""search-mechanism""
+  ]
+}","{
+  ""tags"": [
+    ""object-finding"",
+    ""reward-based"",
+    ""neural-differentiation"",
+    ""search-mechanism""
+  ]
+}"
+94,2,"{
+  ""tags"": [
+    ""Adolescent Brain Development"",
+    ""Decision-Making"",
+    ""Neuroimaging"",
+    ""Reinforcement Learning"",
+    ""Adolescent Cognitive Development""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent Brain Development"",
+    ""Decision-Making"",
+    ""Neuroimaging"",
+    ""Reinforcement Learning"",
+    ""Adolescent Cognitive Development""
+  ]
+}"
+95,2,"{
+  ""tags"": [
+    ""ErbB signaling"",
+    ""Adolescent development"",
+    ""Reward system"",
+    ""Dopamine levels""
+  ]
+}","{
+  ""tags"": [
+    ""ErbB signaling"",
+    ""Adolescent development"",
+    ""Reward system"",
+    ""Dopamine levels""
+  ]
+}"
+96,2,"{
+  ""tags"": [
+    ""mesencephalic dopamine systems"",
+    ""predictive Hebbian learning"",
+    ""neural error prediction"",
+    ""dopamine release and synaptic plasticity""
+  ]
+}","{
+  ""tags"": [
+    ""mesencephalic dopamine systems"",
+    ""predictive Hebbian learning"",
+    ""neural error prediction"",
+    ""dopamine release and synaptic plasticity""
+  ]
+}"
+97,2,"{
+  ""tags"": [
+    ""Nicotine and Varenicline"",
+    ""Reward-Based Choice Strategy"",
+    ""Decision-Making"",
+    ""Methamphetamine Treatment"",
+    ""Neuropsychiatric Disorders""
+  ]
+}","{
+  ""tags"": [
+    ""Nicotine and Varenicline"",
+    ""Reward-Based Choice Strategy"",
+    ""Decision-Making"",
+    ""Methamphetamine Treatment"",
+    ""Neuropsychiatric Disorders""
+  ]
+}"
+98,2,"{
+  ""tags"": [
+    ""Phosphodiesterase 10A"",
+    ""Striatal signaling"",
+    ""Evaluative salience attribution"",
+    ""Reward learning""
+  ]
+}","{
+  ""tags"": [
+    ""Phosphodiesterase 10A"",
+    ""Striatal signaling"",
+    ""Evaluative salience attribution"",
+    ""Reward learning""
+  ]
+}"
+99,2,"{
+  ""tags"": [
+    ""Anterior Cingulate Cortex"",
+    ""Information Choices"",
+    ""Reward Prediction"",
+    ""Decision-Making"",
+    ""Optical Inhibition""
+  ]
+}","{
+  ""tags"": [
+    ""Anterior Cingulate Cortex"",
+    ""Information Choices"",
+    ""Reward Prediction"",
+    ""Decision-Making"",
+    ""Optical Inhibition""
+  ]
+}"
+100,3,"{
+  ""tags"": [
+    ""Reward Influences Masked Free-Choice Priming"",
+    ""Attention Modulation of Masked Priming"",
+    ""Reward Learning and Masked Priming"",
+    ""Attentional Control and Reward""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Influences Masked Free-Choice Priming"",
+    ""Attention Modulation of Masked Priming"",
+    ""Reward Learning and Masked Priming"",
+    ""Attentional Control and Reward""
+  ]
+}"
+101,3,"{
+  ""tags"": [
+    ""Reward-Based Attention"",
+    ""Spatial Priority Maps"",
+    ""Behavioral Reinforcement"",
+    ""Attentional Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-Based Attention"",
+    ""Spatial Priority Maps"",
+    ""Behavioral Reinforcement"",
+    ""Attentional Learning""
+  ]
+}"
+102,3,"{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Visual Attention"",
+    ""Reward Cues"",
+    ""Money Representation""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Visual Attention"",
+    ""Reward Cues"",
+    ""Money Representation""
+  ]
+}"
+103,3,"{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reward History"",
+    ""Value-Driven Attention"",
+    ""Attentional Capture""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reward History"",
+    ""Value-Driven Attention"",
+    ""Attentional Capture""
+  ]
+}"
+104,3,"{
+  ""tags"": [
+    ""Inattentional Blindness"",
+    ""Attentional Capture"",
+    ""Reward Learning"",
+    ""Perceptual Feature""
+  ]
+}","{
+  ""tags"": [
+    ""Inattentional Blindness"",
+    ""Attentional Capture"",
+    ""Reward Learning"",
+    ""Perceptual Feature""
+  ]
+}"
+105,3,"{
+  ""tags"": [
+    ""Value-driven attentional priority"",
+    ""Attentional capture"",
+    ""Reward-driven attention"",
+    ""Context-dependent attention""
+  ]
+}","{
+  ""tags"": [
+    ""Value-driven attentional priority"",
+    ""Attentional capture"",
+    ""Reward-driven attention"",
+    ""Context-dependent attention""
+  ]
+}"
+106,3,"{
+  ""tags"": [
+    ""Social Reward"",
+    ""Attentional Bias"",
+    ""Positive Social Feedback"",
+    ""Task-Specific Motivation""
+  ]
+}","{
+  ""tags"": [
+    ""Social Reward"",
+    ""Attentional Bias"",
+    ""Positive Social Feedback"",
+    ""Task-Specific Motivation""
+  ]
+}"
+107,3,"{
+  ""tags"": [
+    ""Attentional Prioritization"",
+    ""Reward Modulation"",
+    ""Parietal Cortex"",
+    ""Reward-Based Decisions""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Prioritization"",
+    ""Reward Modulation"",
+    ""Parietal Cortex"",
+    ""Reward-Based Decisions""
+  ]
+}"
+108,3,"{
+  ""tags"": [
+    ""Value Learning"",
+    ""Goal-Directed Actions"",
+    ""Perceptual Response"",
+    ""Attentional Resources""
+  ]
+}","{
+  ""tags"": [
+    ""Value Learning"",
+    ""Goal-Directed Actions"",
+    ""Perceptual Response"",
+    ""Attentional Resources""
+  ]
+}"
+109,3,"{
+  ""tags"": [
+    ""Value-Based Reversal Learning"",
+    ""Attentional Prioritization"",
+    ""ERP Components"",
+    ""Feedback Processing"",
+    ""Behavioral Adjustment""
+  ]
+}","{
+  ""tags"": [
+    ""Value-Based Reversal Learning"",
+    ""Attentional Prioritization"",
+    ""ERP Components"",
+    ""Feedback Processing"",
+    ""Behavioral Adjustment""
+  ]
+}"
+110,3,"{
+  ""tags"": [
+    ""Risky Alcohol Use"",
+    ""Value-Modulated Attention"",
+    ""Stimulus-Reward Contingencies"",
+    ""Attentional Capture""
+  ]
+}","{
+  ""tags"": [
+    ""Risky Alcohol Use"",
+    ""Value-Modulated Attention"",
+    ""Stimulus-Reward Contingencies"",
+    ""Attentional Capture""
+  ]
+}"
+111,3,"{
+  ""tags"": [
+    ""Biased Choice"",
+    ""Incentive Salience"",
+    ""Attentional Capture"",
+    ""Reward Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Biased Choice"",
+    ""Incentive Salience"",
+    ""Attentional Capture"",
+    ""Reward Learning""
+  ]
+}"
+112,3,"{
+  ""tags"": [
+    ""value learning"",
+    ""affective valence"",
+    ""motivational salience"",
+    ""attentional blink"",
+    ""memory formation""
+  ]
+}","{
+  ""tags"": [
+    ""value learning"",
+    ""affective valence"",
+    ""motivational salience"",
+    ""attentional blink"",
+    ""memory formation""
+  ]
+}"
+113,3,"{
+  ""tags"": [
+    ""Task-irrelevant stimulus-reward association"",
+    ""Value-driven attentional capture"",
+    ""Reward learning"",
+    ""Visual attention"",
+    ""Flanker task""
+  ]
+}","{
+  ""tags"": [
+    ""Task-irrelevant stimulus-reward association"",
+    ""Value-driven attentional capture"",
+    ""Reward learning"",
+    ""Visual attention"",
+    ""Flanker task""
+  ]
+}"
+114,3,"{
+  ""tags"": [
+    ""Value-based attention capture"",
+    ""Differential effects of loss and gain contingencies"",
+    ""Reward learning"",
+    ""Attentional bias""
+  ]
+}","{
+  ""tags"": [
+    ""Value-based attention capture"",
+    ""Differential effects of loss and gain contingencies"",
+    ""Reward learning"",
+    ""Attentional bias""
+  ]
+}"
+115,3,"{
+  ""tags"": [
+    ""Value-based attentional capture"",
+    ""Context-dependent decision-making"",
+    ""Normative theories"",
+    ""Value-based normalization""
+  ]
+}","{
+  ""tags"": [
+    ""Value-based attentional capture"",
+    ""Context-dependent decision-making"",
+    ""Normative theories"",
+    ""Value-based normalization""
+  ]
+}"
+116,3,"{
+  ""tags"": [
+    ""Attentional Biases"",
+    ""Reward Effect"",
+    ""Location- Reward Association"",
+    ""Awareness and Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Biases"",
+    ""Reward Effect"",
+    ""Location- Reward Association"",
+    ""Awareness and Attention""
+  ]
+}"
+117,3,"{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reward Learning"",
+    ""Value-Based Mechanism"",
+    ""Attentional Control""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reward Learning"",
+    ""Value-Based Mechanism"",
+    ""Attentional Control""
+  ]
+}"
+118,3,"{
+  ""tags"": [
+    ""Attentional Bias"",
+    ""Reward and Aversive Outcomes"",
+    ""Motivational Salience"",
+    ""Learning and Reinforcement""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Bias"",
+    ""Reward and Aversive Outcomes"",
+    ""Motivational Salience"",
+    ""Learning and Reinforcement""
+  ]
+}"
+119,3,"{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Saccades"",
+    ""Visual Search"",
+    ""Eye Movements"",
+    ""Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Saccades"",
+    ""Visual Search"",
+    ""Eye Movements"",
+    ""Attention""
+  ]
+}"
+120,3,"{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Reward Processing"",
+    ""Amygdala Lesions"",
+    ""Innate Biological Value""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Reward Processing"",
+    ""Amygdala Lesions"",
+    ""Innate Biological Value""
+  ]
+}"
+121,3,"{
+  ""tags"": [
+    ""Cognitive Control"",
+    ""Counterproductive Oculomotor Capture"",
+    ""Reward-Related Stimuli"",
+    ""Top-Down Control""
+  ]
+}","{
+  ""tags"": [
+    ""Cognitive Control"",
+    ""Counterproductive Oculomotor Capture"",
+    ""Reward-Related Stimuli"",
+    ""Top-Down Control""
+  ]
+}"
+122,3,"{
+  ""tags"": [
+    ""Cingulate neglect"",
+    ""Reward learning"",
+    ""Spatial attention"",
+    ""Brain damage"",
+    ""ACC lesion""
+  ]
+}","{
+  ""tags"": [
+    ""Cingulate neglect"",
+    ""Reward learning"",
+    ""Spatial attention"",
+    ""Brain damage"",
+    ""ACC lesion""
+  ]
+}"
+123,3,"{
+  ""tags"": [
+    ""Perceptual Competition"",
+    ""Reward Salience"",
+    ""Visual Attention"",
+    ""Neural Representation""
+  ]
+}","{
+  ""tags"": [
+    ""Perceptual Competition"",
+    ""Reward Salience"",
+    ""Visual Attention"",
+    ""Neural Representation""
+  ]
+}"
+124,3,"{
+  ""tags"": [
+    ""Attentional Vigilance"",
+    ""Reward and Motivation"",
+    ""Sustained Attention"",
+    ""Reward Feedback""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Vigilance"",
+    ""Reward and Motivation"",
+    ""Sustained Attention"",
+    ""Reward Feedback""
+  ]
+}"
+125,3,"{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Value-Driven Attention"",
+    ""Reward Learning"",
+    ""Cue Identity"",
+    ""Cue Location""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Value-Driven Attention"",
+    ""Reward Learning"",
+    ""Cue Identity"",
+    ""Cue Location""
+  ]
+}"
+126,3,"{
+  ""tags"": [
+    ""dopaminergic reward signals"",
+    ""attentional bias"",
+    ""positron emission tomography"",
+    ""dopamine release"",
+    ""reward-based attentional bias""
+  ]
+}","{
+  ""tags"": [
+    ""dopaminergic reward signals"",
+    ""attentional bias"",
+    ""positron emission tomography"",
+    ""dopamine release"",
+    ""reward-based attentional bias""
+  ]
+}"
+127,3,"{
+  ""tags"": [
+    ""Food Preferences"",
+    ""Attentional Weighting"",
+    ""Reward Learning"",
+    ""Flanker Task""
+  ]
+}","{
+  ""tags"": [
+    ""Food Preferences"",
+    ""Attentional Weighting"",
+    ""Reward Learning"",
+    ""Flanker Task""
+  ]
+}"
+128,3,"{
+  ""tags"": [
+    ""Pupil dilation"",
+    ""Direct gaze"",
+    ""Reward expectation"",
+    ""Behavioral bias""
+  ]
+}","{
+  ""tags"": [
+    ""Pupil dilation"",
+    ""Direct gaze"",
+    ""Reward expectation"",
+    ""Behavioral bias""
+  ]
+}"
+129,3,"{
+  ""tags"": [
+    ""Value-Driven Attentional Capture"",
+    ""Reward Modulation"",
+    ""Action-Reward Interaction"",
+    ""Visual Selection""
+  ]
+}","{
+  ""tags"": [
+    ""Value-Driven Attentional Capture"",
+    ""Reward Modulation"",
+    ""Action-Reward Interaction"",
+    ""Visual Selection""
+  ]
+}"
+130,3,"{
+  ""tags"": [
+    ""Stroop task"",
+    ""motivated attention"",
+    ""aversive motivation"",
+    ""reward"",
+    ""punishment aversion""
+  ]
+}","{
+  ""tags"": [
+    ""Stroop task"",
+    ""motivated attention"",
+    ""aversive motivation"",
+    ""reward"",
+    ""punishment aversion""
+  ]
+}"
+131,3,"{
+  ""tags"": [
+    ""Reward-related attentional capture"",
+    ""Cognitive inflexibility"",
+    ""Compulsivity"",
+    ""Impulsivity"",
+    ""Neurocognitive processes""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-related attentional capture"",
+    ""Cognitive inflexibility"",
+    ""Compulsivity"",
+    ""Impulsivity"",
+    ""Neurocognitive processes""
+  ]
+}"
+132,3,"{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Reward-Directed"",
+    ""Goal-Directed"",
+    ""Stimulus-Reward Relationship""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Reward-Directed"",
+    ""Goal-Directed"",
+    ""Stimulus-Reward Relationship""
+  ]
+}"
+133,3,"{
+  ""tags"": [
+    ""Social Comparison"",
+    ""Reward-Driven Attention"",
+    ""Attentional Capture"",
+    ""Social Comparison Modulates""
+  ]
+}","{
+  ""tags"": [
+    ""Social Comparison"",
+    ""Reward-Driven Attention"",
+    ""Attentional Capture"",
+    ""Social Comparison Modulates""
+  ]
+}"
+134,3,"{
+  ""tags"": [
+    ""Reward"",
+    ""Contextual Visual Features"",
+    ""Cognitive Control"",
+    ""Reward Modulation""
+  ]
+}","{
+  ""tags"": [
+    ""Reward"",
+    ""Contextual Visual Features"",
+    ""Cognitive Control"",
+    ""Reward Modulation""
+  ]
+}"
+135,3,"{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reinforcement Learning"",
+    ""Feature-Based Attention"",
+    ""Value-Independent Stickiness""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Reinforcement Learning"",
+    ""Feature-Based Attention"",
+    ""Value-Independent Stickiness""
+  ]
+}"
+136,3,"{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Consciousness and Reward"",
+    ""Inter-ocular Suppression"",
+    ""Attention and Reward""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Consciousness and Reward"",
+    ""Inter-ocular Suppression"",
+    ""Attention and Reward""
+  ]
+}"
+137,3,"{
+  ""tags"": [
+    ""Pavlovian reward learning"",
+    ""value-driven attentional capture"",
+    ""attentional capture"",
+    ""distractor effects"",
+    ""task-irrelevant stimuli""
+  ]
+}","{
+  ""tags"": [
+    ""Pavlovian reward learning"",
+    ""value-driven attentional capture"",
+    ""attentional capture"",
+    ""distractor effects"",
+    ""task-irrelevant stimuli""
+  ]
+}"
+138,3,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Associative Memory"",
+    ""Retroactive Interference"",
+    ""Reward Learning"",
+    ""Reconsolidation Window""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Associative Memory"",
+    ""Retroactive Interference"",
+    ""Reward Learning"",
+    ""Reconsolidation Window""
+  ]
+}"
+139,3,"{
+  ""tags"": [
+    ""Reward-related attentional capture"",
+    ""Addiction-related behaviors"",
+    ""Obsessive-compulsive behaviors"",
+    ""Compulsivity"",
+    ""Transdiagnostic cognitive risk marker""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-related attentional capture"",
+    ""Addiction-related behaviors"",
+    ""Obsessive-compulsive behaviors"",
+    ""Compulsivity"",
+    ""Transdiagnostic cognitive risk marker""
+  ]
+}"
+140,3,"{
+  ""tags"": [
+    ""Decision Making"",
+    ""Pattern Recognition"",
+    ""Reward Maximization"",
+    ""Eye Movements""
+  ]
+}","{
+  ""tags"": [
+    ""Decision Making"",
+    ""Pattern Recognition"",
+    ""Reward Maximization"",
+    ""Eye Movements""
+  ]
+}"
+141,3,"{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Reward Learning"",
+    ""Task-irrelevant Stimuli"",
+    ""External Reward Structures""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Reward Learning"",
+    ""Task-irrelevant Stimuli"",
+    ""External Reward Structures""
+  ]
+}"
+142,3,"{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Value-Based Attention"",
+    ""Reward-Associated Stimuli"",
+    ""Threat-Induced Selectivity""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Capture"",
+    ""Value-Based Attention"",
+    ""Reward-Associated Stimuli"",
+    ""Threat-Induced Selectivity""
+  ]
+}"
+143,3,"{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Value-Driven Attention"",
+    ""Behavioral Approach Bias"",
+    ""Inhibitory Control""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Learning"",
+    ""Value-Driven Attention"",
+    ""Behavioral Approach Bias"",
+    ""Inhibitory Control""
+  ]
+}"
+144,3,"{
+  ""tags"": [
+    ""Attentional Orienting"",
+    ""Location-Based Reward"",
+    ""Reward Modulation"",
+    ""Spatial Priority Maps""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Orienting"",
+    ""Location-Based Reward"",
+    ""Reward Modulation"",
+    ""Spatial Priority Maps""
+  ]
+}"
+145,3,"{
+  ""tags"": [
+    ""Value-Driven Attention Capture"",
+    ""Reward-Associated Learning"",
+    ""Task-Dependent Reinforcement"",
+    ""Attentional Capture""
+  ]
+}","{
+  ""tags"": [
+    ""Value-Driven Attention Capture"",
+    ""Reward-Associated Learning"",
+    ""Task-Dependent Reinforcement"",
+    ""Attentional Capture""
+  ]
+}"
+146,3,"{
+  ""tags"": [
+    ""Reward-Associated Stimuli Capture Spatial Attention"",
+    ""Value-Driven Attentional Capture"",
+    ""Reward Learning and Sensory Cortex"",
+    ""Spatial Selection and Value Modulation""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-Associated Stimuli Capture Spatial Attention"",
+    ""Value-Driven Attentional Capture"",
+    ""Reward Learning and Sensory Cortex"",
+    ""Spatial Selection and Value Modulation""
+  ]
+}"
+147,3,"{
+  ""tags"": [
+    ""Autism Spectrum Disorder"",
+    ""Value Learning"",
+    ""Social Object Perception"",
+    ""Gaze Contingent Eye Tracking""
+  ]
+}","{
+  ""tags"": [
+    ""Autism Spectrum Disorder"",
+    ""Value Learning"",
+    ""Social Object Perception"",
+    ""Gaze Contingent Eye Tracking""
+  ]
+}"
+148,3,"{
+  ""tags"": [
+    ""Attention and Reward Learning"",
+    ""Figure Ground Segregation"",
+    ""Attention and Reward History"",
+    ""Reward Learning and Figure Assignment""
+  ]
+}","{
+  ""tags"": [
+    ""Attention and Reward Learning"",
+    ""Figure Ground Segregation"",
+    ""Attention and Reward History"",
+    ""Reward Learning and Figure Assignment""
+  ]
+}"
+149,3,"{
+  ""tags"": [
+    ""Reward Modulation"",
+    ""Attentional Habit"",
+    ""Stimulus Salience"",
+    ""Outcome Devaluation""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Modulation"",
+    ""Attentional Habit"",
+    ""Stimulus Salience"",
+    ""Outcome Devaluation""
+  ]
+}"
+150,4,"{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Experience-Based Decision-Making"",
+    ""Magnitude and Incentives"",
+    ""Reversed-Reflection Effect""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Experience-Based Decision-Making"",
+    ""Magnitude and Incentives"",
+    ""Reversed-Reflection Effect""
+  ]
+}"
+151,4,"{
+  ""tags"": [
+    ""Social Prediction"",
+    ""Reward Learning"",
+    ""Neural Control"",
+    ""Emotion Recognition""
+  ]
+}","{
+  ""tags"": [
+    ""Social Prediction"",
+    ""Reward Learning"",
+    ""Neural Control"",
+    ""Emotion Recognition""
+  ]
+}"
+152,4,"{
+  ""tags"": [
+    ""Right Temporoparietal Junction"",
+    ""Belief-Based Learning"",
+    ""Reinforcement Learning"",
+    ""Neural Mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Right Temporoparietal Junction"",
+    ""Belief-Based Learning"",
+    ""Reinforcement Learning"",
+    ""Neural Mechanisms""
+  ]
+}"
+153,4,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""False Beliefs"",
+    ""Anterior Cingulate Cortex"",
+    ""Neural Signals""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""False Beliefs"",
+    ""Anterior Cingulate Cortex"",
+    ""Neural Signals""
+  ]
+}"
+154,4,"{
+  ""tags"": [
+    ""Social Value at Distance"",
+    ""Identity and Welfare"",
+    ""Social Discounting"",
+    ""Collective Good""
+  ]
+}","{
+  ""tags"": [
+    ""Social Value at Distance"",
+    ""Identity and Welfare"",
+    ""Social Discounting"",
+    ""Collective Good""
+  ]
+}"
+155,4,"{
+  ""tags"": [
+    ""operant learning"",
+    ""first impression"",
+    ""outcome primacy"",
+    ""reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""operant learning"",
+    ""first impression"",
+    ""outcome primacy"",
+    ""reinforcement learning""
+  ]
+}"
+156,4,"{
+  ""tags"": [
+    ""Dual-System Framework"",
+    ""Moral Psychology"",
+    ""Value Representation"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Dual-System Framework"",
+    ""Moral Psychology"",
+    ""Value Representation"",
+    ""Reinforcement Learning""
+  ]
+}"
+157,4,"{
+  ""tags"": [
+    ""Risky Choice"",
+    ""Effort"",
+    ""Decision Making"",
+    ""Cognitive Biases""
+  ]
+}","{
+  ""tags"": [
+    ""Risky Choice"",
+    ""Effort"",
+    ""Decision Making"",
+    ""Cognitive Biases""
+  ]
+}"
+158,4,"{
+  ""tags"": [
+    ""Consensus effects"",
+    ""Categorization decisions"",
+    ""Signal detection"",
+    ""Base rates"",
+    ""Incentive structure""
+  ]
+}","{
+  ""tags"": [
+    ""Consensus effects"",
+    ""Categorization decisions"",
+    ""Signal detection"",
+    ""Base rates"",
+    ""Incentive structure""
+  ]
+}"
+159,4,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Regret"",
+    ""Social Influence"",
+    ""Sequential Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Regret"",
+    ""Social Influence"",
+    ""Sequential Decision Making""
+  ]
+}"
+160,4,"{
+  ""tags"": [
+    ""Charity Preferences"",
+    ""Altruism"",
+    ""Neural Response"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Charity Preferences"",
+    ""Altruism"",
+    ""Neural Response"",
+    ""Decision Making""
+  ]
+}"
+161,4,"{
+  ""tags"": [
+    ""Video Game Reward Punishment"",
+    ""Attentional Bias"",
+    ""Prosocial Video Games"",
+    ""Behavioral Learning"",
+    ""General Learning Model""
+  ]
+}","{
+  ""tags"": [
+    ""Video Game Reward Punishment"",
+    ""Attentional Bias"",
+    ""Prosocial Video Games"",
+    ""Behavioral Learning"",
+    ""General Learning Model""
+  ]
+}"
+162,4,"{
+  ""tags"": [
+    ""team-based experiments"",
+    ""coordination dynamics"",
+    ""heterogeneity"",
+    ""co-evolution of decision rules""
+  ]
+}","{
+  ""tags"": [
+    ""team-based experiments"",
+    ""coordination dynamics"",
+    ""heterogeneity"",
+    ""co-evolution of decision rules""
+  ]
+}"
+163,4,"{
+  ""tags"": [
+    ""Decision-Making"",
+    ""RiskyChoices"",
+    ""ValueInformation"",
+    ""ProbabilityIntegration""
+  ]
+}","{
+  ""tags"": [
+    ""Decision-Making"",
+    ""RiskyChoices"",
+    ""ValueInformation"",
+    ""ProbabilityIntegration""
+  ]
+}"
+164,4,"{
+  ""tags"": [
+    ""Retirement Savings"",
+    ""Retirement Planning"",
+    ""Behavioral Finance"",
+    ""Stock Market Performance""
+  ]
+}","{
+  ""tags"": [
+    ""Retirement Savings"",
+    ""Retirement Planning"",
+    ""Behavioral Finance"",
+    ""Stock Market Performance""
+  ]
+}"
+165,4,"{
+  ""tags"": [
+    ""Investor's Intrinsic Motives"",
+    ""Sequential Decision-Making"",
+    ""Risk-Taking"",
+    ""Word-of-Mouth""
+  ]
+}","{
+  ""tags"": [
+    ""Investor's Intrinsic Motives"",
+    ""Sequential Decision-Making"",
+    ""Risk-Taking"",
+    ""Word-of-Mouth""
+  ]
+}"
+166,4,"{
+  ""tags"": [
+    ""Autism Spectrum Disorder"",
+    ""Neural Reward Responses"",
+    ""Social Reinforcement"",
+    ""Restricted Interests"",
+    ""Neurophysiological Differences""
+  ]
+}","{
+  ""tags"": [
+    ""Autism Spectrum Disorder"",
+    ""Neural Reward Responses"",
+    ""Social Reinforcement"",
+    ""Restricted Interests"",
+    ""Neurophysiological Differences""
+  ]
+}"
+167,4,"{
+  ""tags"": [
+    ""Cryptocurrency Pump-and-Dump Schemes"",
+    ""Wealth Transfer"",
+    ""Gambling Preferences"",
+    ""Overconfidence"",
+    ""Naive Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Cryptocurrency Pump-and-Dump Schemes"",
+    ""Wealth Transfer"",
+    ""Gambling Preferences"",
+    ""Overconfidence"",
+    ""Naive Reinforcement Learning""
+  ]
+}"
+168,4,"{
+  ""tags"": [
+    ""Social Learning"",
+    ""Adolescence"",
+    ""Neurocognitive"",
+    ""Bayesian Reinforcement""
+  ]
+}","{
+  ""tags"": [
+    ""Social Learning"",
+    ""Adolescence"",
+    ""Neurocognitive"",
+    ""Bayesian Reinforcement""
+  ]
+}"
+169,4,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Trust Games"",
+    ""Black Mark Reputation"",
+    ""Sequential Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Trust Games"",
+    ""Black Mark Reputation"",
+    ""Sequential Decision Making""
+  ]
+}"
+170,4,"{
+  ""tags"": [
+    ""replicated alternatives"",
+    ""choice from experience"",
+    ""confusion"",
+    ""chasing behavior"",
+    ""regret in decision making""
+  ]
+}","{
+  ""tags"": [
+    ""replicated alternatives"",
+    ""choice from experience"",
+    ""confusion"",
+    ""chasing behavior"",
+    ""regret in decision making""
+  ]
+}"
+171,4,"{
+  ""tags"": [
+    ""Child Development"",
+    ""Bargaining"",
+    ""Reinforcement Learning"",
+    ""Social Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Child Development"",
+    ""Bargaining"",
+    ""Reinforcement Learning"",
+    ""Social Learning""
+  ]
+}"
+172,4,"{
+  ""tags"": [
+    ""Social Observation"",
+    ""Selfish People"",
+    ""Prosocial Learning"",
+    ""Intrinsic Tendencies""
+  ]
+}","{
+  ""tags"": [
+    ""Social Observation"",
+    ""Selfish People"",
+    ""Prosocial Learning"",
+    ""Intrinsic Tendencies""
+  ]
+}"
+173,4,"{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Human Decision-Making"",
+    ""Contextual Factors"",
+    ""Reward Currencies""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Human Decision-Making"",
+    ""Contextual Factors"",
+    ""Reward Currencies""
+  ]
+}"
+174,4,"{
+  ""tags"": [
+    ""Neural basis of mate poaching"",
+    ""Value-based decision-making"",
+    ""Mate poaching"",
+    ""Orbitofrontal cortex"",
+    ""Functional magnetic resonance imaging""
+  ]
+}","{
+  ""tags"": [
+    ""Neural basis of mate poaching"",
+    ""Value-based decision-making"",
+    ""Mate poaching"",
+    ""Orbitofrontal cortex"",
+    ""Functional magnetic resonance imaging""
+  ]
+}"
+175,4,"{
+  ""tags"": [
+    ""domain-dependent risk preferences"",
+    ""risk taking tendency"",
+    ""perceptual-memory task"",
+    ""delay discounting measure""
+  ]
+}","{
+  ""tags"": [
+    ""domain-dependent risk preferences"",
+    ""risk taking tendency"",
+    ""perceptual-memory task"",
+    ""delay discounting measure""
+  ]
+}"
+176,4,"{
+  ""tags"": [
+    ""underweighting rare events"",
+    ""description-experience gap"",
+    ""rare events in experience decisions"",
+    ""sample error in decision making""
+  ]
+}","{
+  ""tags"": [
+    ""underweighting rare events"",
+    ""description-experience gap"",
+    ""rare events in experience decisions"",
+    ""sample error in decision making""
+  ]
+}"
+177,4,"{
+  ""tags"": [
+    ""Risk Uncertainty Psychology"",
+    ""Decision Making Experience"",
+    ""Probability Statistics"",
+    ""Risk Perception""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Uncertainty Psychology"",
+    ""Decision Making Experience"",
+    ""Probability Statistics"",
+    ""Risk Perception""
+  ]
+}"
+178,4,"{
+  ""tags"": [
+    ""self-relevance"",
+    ""reinforcement-learning"",
+    ""uncertainty"",
+    ""social-cognitive-functioning""
+  ]
+}","{
+  ""tags"": [
+    ""self-relevance"",
+    ""reinforcement-learning"",
+    ""uncertainty"",
+    ""social-cognitive-functioning""
+  ]
+}"
+179,4,"{
+  ""tags"": [
+    ""Impulse Shaping"",
+    ""Decision Behavior"",
+    ""Short-Term Reactions"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Impulse Shaping"",
+    ""Decision Behavior"",
+    ""Short-Term Reactions"",
+    ""Reinforcement Learning""
+  ]
+}"
+180,4,"{
+  ""tags"": [
+    ""Real Options"",
+    ""Risky Decisions"",
+    ""Decision Making"",
+    ""Uncertainty Reduction""
+  ]
+}","{
+  ""tags"": [
+    ""Real Options"",
+    ""Risky Decisions"",
+    ""Decision Making"",
+    ""Uncertainty Reduction""
+  ]
+}"
+181,4,"{
+  ""tags"": [
+    ""Risk Attitudes"",
+    ""Stochastic Model of Choice"",
+    ""Threshold Effect"",
+    ""Gains and Losses""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Attitudes"",
+    ""Stochastic Model of Choice"",
+    ""Threshold Effect"",
+    ""Gains and Losses""
+  ]
+}"
+182,4,"{
+  ""tags"": [
+    ""Risk Sharing"",
+    ""Cooperative Groups"",
+    ""Social Insurance"",
+    ""Environmental Risk""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Sharing"",
+    ""Cooperative Groups"",
+    ""Social Insurance"",
+    ""Environmental Risk""
+  ]
+}"
+183,4,"{
+  ""tags"": [
+    ""ethnic discrimination"",
+    ""trust bias"",
+    ""repeated trust game"",
+    ""behavioral reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""ethnic discrimination"",
+    ""trust bias"",
+    ""repeated trust game"",
+    ""behavioral reinforcement learning""
+  ]
+}"
+184,4,"{
+  ""tags"": [
+    ""Risk Value Information"",
+    ""Decision Risk Value"",
+    ""Information Risk Tradeoff"",
+    ""Stochastic Returns to Scale""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Value Information"",
+    ""Decision Risk Value"",
+    ""Information Risk Tradeoff"",
+    ""Stochastic Returns to Scale""
+  ]
+}"
+185,4,"{
+  ""tags"": [
+    ""Self-Other Mergence"",
+    ""Dorsomedial Prefrontal Cortex"",
+    ""Social Representation"",
+    ""Neurostimulation""
+  ]
+}","{
+  ""tags"": [
+    ""Self-Other Mergence"",
+    ""Dorsomedial Prefrontal Cortex"",
+    ""Social Representation"",
+    ""Neurostimulation""
+  ]
+}"
+186,4,"{
+  ""tags"": [
+    ""Neural correlates of social decision-making"",
+    ""Real-time sibling interactions"",
+    ""Game theory"",
+    ""Neural correlates of social decision-making in real-time""
+  ]
+}","{
+  ""tags"": [
+    ""Neural correlates of social decision-making"",
+    ""Real-time sibling interactions"",
+    ""Game theory"",
+    ""Neural correlates of social decision-making in real-time""
+  ]
+}"
+187,4,"{
+  ""tags"": [
+    ""Neural regions"",
+    ""Social expectancy"",
+    ""Reward and punishment"",
+    ""Prediction error"",
+    ""Neuroeconomics""
+  ]
+}","{
+  ""tags"": [
+    ""Neural regions"",
+    ""Social expectancy"",
+    ""Reward and punishment"",
+    ""Prediction error"",
+    ""Neuroeconomics""
+  ]
+}"
+188,4,"{
+  ""tags"": [
+    ""ecological reward-probability correlation"",
+    ""probability judgments from experience"",
+    ""environmental regularities"",
+    ""information search and integration""
+  ]
+}","{
+  ""tags"": [
+    ""ecological reward-probability correlation"",
+    ""probability judgments from experience"",
+    ""environmental regularities"",
+    ""information search and integration""
+  ]
+}"
+189,4,"{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Decision Making"",
+    ""Predictive Accuracy"",
+    ""Noise in Human Preferences""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Preferences"",
+    ""Decision Making"",
+    ""Predictive Accuracy"",
+    ""Noise in Human Preferences""
+  ]
+}"
+190,4,"{
+  ""tags"": [
+    ""Outcome Feedback"",
+    ""Risk Propensity"",
+    ""MCPLP Task"",
+    ""Decision By Decision""
+  ]
+}","{
+  ""tags"": [
+    ""Outcome Feedback"",
+    ""Risk Propensity"",
+    ""MCPLP Task"",
+    ""Decision By Decision""
+  ]
+}"
+191,4,"{
+  ""tags"": [
+    ""cross-cultural differences"",
+    ""decisions from experience"",
+    ""cultural differences"",
+    ""change-related cultural differences""
+  ]
+}","{
+  ""tags"": [
+    ""cross-cultural differences"",
+    ""decisions from experience"",
+    ""cultural differences"",
+    ""change-related cultural differences""
+  ]
+}"
+192,4,"{
+  ""tags"": [
+    ""Econometric Models of Adaptive Learning"",
+    ""Game Theory"",
+    ""Econometrics"",
+    ""Learning Rules""
+  ]
+}","{
+  ""tags"": [
+    ""Econometric Models of Adaptive Learning"",
+    ""Game Theory"",
+    ""Econometrics"",
+    ""Learning Rules""
+  ]
+}"
+193,4,"{
+  ""tags"": [
+    ""Regret in Experience-Based Decisions"",
+    ""Expected Value Differences"",
+    ""Mixed Gains and Losses"",
+    ""Risk Management"",
+    ""Motivational Factors in Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Regret in Experience-Based Decisions"",
+    ""Expected Value Differences"",
+    ""Mixed Gains and Losses"",
+    ""Risk Management"",
+    ""Motivational Factors in Decision Making""
+  ]
+}"
+194,4,"{
+  ""tags"": [
+    ""action-valence asymmetry"",
+    ""reward-punishment learning"",
+    ""social cognition"",
+    ""inaction-punishment effects""
+  ]
+}","{
+  ""tags"": [
+    ""action-valence asymmetry"",
+    ""reward-punishment learning"",
+    ""social cognition"",
+    ""inaction-punishment effects""
+  ]
+}"
+195,4,"{
+  ""tags"": [
+    ""Adaptation"",
+    ""Cognitive Strategies"",
+    ""Behavioral Reinforcement"",
+    ""Maximization"",
+    ""Iterated Tasks""
+  ]
+}","{
+  ""tags"": [
+    ""Adaptation"",
+    ""Cognitive Strategies"",
+    ""Behavioral Reinforcement"",
+    ""Maximization"",
+    ""Iterated Tasks""
+  ]
+}"
+196,4,"{
+  ""tags"": [
+    ""Adolescent Advice Taking"",
+    ""Social Learning Theory"",
+    ""Developmental Psychology"",
+    ""Exploration and Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent Advice Taking"",
+    ""Social Learning Theory"",
+    ""Developmental Psychology"",
+    ""Exploration and Decision Making""
+  ]
+}"
+197,4,"{
+  ""tags"": [
+    ""prosocial behavior"",
+    ""value-based decision"",
+    ""aging and prosociality"",
+    ""motivation and resources""
+  ]
+}","{
+  ""tags"": [
+    ""prosocial behavior"",
+    ""value-based decision"",
+    ""aging and prosociality"",
+    ""motivation and resources""
+  ]
+}"
+198,4,"{
+  ""tags"": [
+    ""default options"",
+    ""choice behavior"",
+    ""experience-based decisions"",
+    ""radio-button paradigm""
+  ]
+}","{
+  ""tags"": [
+    ""default options"",
+    ""choice behavior"",
+    ""experience-based decisions"",
+    ""radio-button paradigm""
+  ]
+}"
+199,4,"{
+  ""tags"": [
+    ""Dynamic Decision-Making under Uncertainty"",
+    ""Affective Risk Taking"",
+    ""Dynamic Choice Theory"",
+    ""Risk Perception""
+  ]
+}","{
+  ""tags"": [
+    ""Dynamic Decision-Making under Uncertainty"",
+    ""Affective Risk Taking"",
+    ""Dynamic Choice Theory"",
+    ""Risk Perception""
+  ]
+}"
+200,5,"{
+  ""tags"": [
+    ""Uncertainty Modulation"",
+    ""Anterior Cingulate Cortex"",
+    ""Serotonin System"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Uncertainty Modulation"",
+    ""Anterior Cingulate Cortex"",
+    ""Serotonin System"",
+    ""Reinforcement Learning""
+  ]
+}"
+201,5,"{
+  ""tags"": [
+    ""Neural Reinforcement Learning"",
+    ""Pavlovian Control"",
+    ""Instrumental Control"",
+    ""Model-Based Control""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Reinforcement Learning"",
+    ""Pavlovian Control"",
+    ""Instrumental Control"",
+    ""Model-Based Control""
+  ]
+}"
+202,5,"{
+  ""tags"": [
+    ""Neural correlates of taste reward value"",
+    ""Eating disorders"",
+    ""Associative taste reward learning"",
+    ""Temporal difference fMRI"",
+    ""Value signaling""
+  ]
+}","{
+  ""tags"": [
+    ""Neural correlates of taste reward value"",
+    ""Eating disorders"",
+    ""Associative taste reward learning"",
+    ""Temporal difference fMRI"",
+    ""Value signaling""
+  ]
+}"
+203,5,"{
+  ""tags"": [
+    ""Mechanisms of pain discrimination"",
+    ""Contingent reinforcement learning"",
+    ""Instrumental learning"",
+    ""Decision-making research"",
+    ""Perceptual decision-making""
+  ]
+}","{
+  ""tags"": [
+    ""Mechanisms of pain discrimination"",
+    ""Contingent reinforcement learning"",
+    ""Instrumental learning"",
+    ""Decision-making research"",
+    ""Perceptual decision-making""
+  ]
+}"
+204,5,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Instrumental Learning"",
+    ""Decision-Making"",
+    ""Goal-Directed Behavior"",
+    ""Habitual Behavior""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Instrumental Learning"",
+    ""Decision-Making"",
+    ""Goal-Directed Behavior"",
+    ""Habitual Behavior""
+  ]
+}"
+205,5,"{
+  ""tags"": [
+    ""Adversity and Learning"",
+    ""Child Development"",
+    ""Behavioral Development"",
+    ""Learning Processes"",
+    ""Child Maltreatment""
+  ]
+}","{
+  ""tags"": [
+    ""Adversity and Learning"",
+    ""Child Development"",
+    ""Behavioral Development"",
+    ""Learning Processes"",
+    ""Child Maltreatment""
+  ]
+}"
+206,5,"{
+  ""tags"": [
+    ""Hippocampus"",
+    ""Value-Based Learning"",
+    ""Episodic Memory"",
+    ""Motivationally Relevant Behaviors""
+  ]
+}","{
+  ""tags"": [
+    ""Hippocampus"",
+    ""Value-Based Learning"",
+    ""Episodic Memory"",
+    ""Motivationally Relevant Behaviors""
+  ]
+}"
+207,5,"{
+  ""tags"": [
+    ""Social Avoidance"",
+    ""Aversive Disinhibition"",
+    ""Striatal Signaling"",
+    ""Behavioral Inhibition""
+  ]
+}","{
+  ""tags"": [
+    ""Social Avoidance"",
+    ""Aversive Disinhibition"",
+    ""Striatal Signaling"",
+    ""Behavioral Inhibition""
+  ]
+}"
+208,5,"{
+  ""tags"": [
+    ""agentic choice preference"",
+    ""instrumental value of choice"",
+    ""developmental influences"",
+    ""choice bias""
+  ]
+}","{
+  ""tags"": [
+    ""agentic choice preference"",
+    ""instrumental value of choice"",
+    ""developmental influences"",
+    ""choice bias""
+  ]
+}"
+209,5,"{
+  ""tags"": [
+    ""Stress-induced anhedonia"",
+    ""Reward learning"",
+    ""Generalized anxiety disorder"",
+    ""Depression vulnerability"",
+    ""Computerized signal detection task""
+  ]
+}","{
+  ""tags"": [
+    ""Stress-induced anhedonia"",
+    ""Reward learning"",
+    ""Generalized anxiety disorder"",
+    ""Depression vulnerability"",
+    ""Computerized signal detection task""
+  ]
+}"
+210,5,"{
+  ""tags"": [
+    ""Developmental Psychology"",
+    ""Model-Based Reinforcement Learning"",
+    ""Online Learning"",
+    ""Child Development"",
+    ""Adolescent Development""
+  ]
+}","{
+  ""tags"": [
+    ""Developmental Psychology"",
+    ""Model-Based Reinforcement Learning"",
+    ""Online Learning"",
+    ""Child Development"",
+    ""Adolescent Development""
+  ]
+}"
+211,5,"{
+  ""tags"": [
+    ""Borderline Personality Disorder"",
+    ""Emotional State"",
+    ""Social Feedback"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Borderline Personality Disorder"",
+    ""Emotional State"",
+    ""Social Feedback"",
+    ""Reinforcement Learning""
+  ]
+}"
+212,5,"{
+  ""tags"": [
+    ""Major Depressive Disorder"",
+    ""Reward Learning"",
+    ""Anhedonia"",
+    ""Behavioral Inhibition""
+  ]
+}","{
+  ""tags"": [
+    ""Major Depressive Disorder"",
+    ""Reward Learning"",
+    ""Anhedonia"",
+    ""Behavioral Inhibition""
+  ]
+}"
+213,5,"{
+  ""tags"": [
+    ""Latent-cause framework"",
+    ""Addiction phenomena"",
+    ""Recurrent features"",
+    ""Goal-directed aspects""
+  ]
+}","{
+  ""tags"": [
+    ""Latent-cause framework"",
+    ""Addiction phenomena"",
+    ""Recurrent features"",
+    ""Goal-directed aspects""
+  ]
+}"
+214,5,"{
+  ""tags"": [
+    ""insight"",
+    ""reward-based"",
+    ""episodic"",
+    ""memory"",
+    ""neural""
+  ]
+}","{
+  ""tags"": [
+    ""insight"",
+    ""reward-based"",
+    ""episodic"",
+    ""memory"",
+    ""neural""
+  ]
+}"
+215,5,"{
+  ""tags"": [
+    ""Impulsivity"",
+    ""Neurocognitive"",
+    ""Psychiatric"",
+    ""HIV Risk"",
+    ""Drug Use""
+  ]
+}","{
+  ""tags"": [
+    ""Impulsivity"",
+    ""Neurocognitive"",
+    ""Psychiatric"",
+    ""HIV Risk"",
+    ""Drug Use""
+  ]
+}"
+216,5,"{
+  ""tags"": [
+    ""Compulsive Behavior"",
+    ""Outcome-irrelevant Learning"",
+    ""Behavioral Reinforcement"",
+    ""Task-Specific Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Compulsive Behavior"",
+    ""Outcome-irrelevant Learning"",
+    ""Behavioral Reinforcement"",
+    ""Task-Specific Learning""
+  ]
+}"
+217,5,"{
+  ""tags"": [
+    ""Adolescent Bullying"",
+    ""Neural Activation"",
+    ""Social Exclusion"",
+    ""Neuroscience""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent Bullying"",
+    ""Neural Activation"",
+    ""Social Exclusion"",
+    ""Neuroscience""
+  ]
+}"
+218,5,"{
+  ""tags"": [
+    ""Aberrant probabilistic reinforcement learning"",
+    ""Bipolar disorder"",
+    ""Motivational dysregulation"",
+    ""Behavioral activation system""
+  ]
+}","{
+  ""tags"": [
+    ""Aberrant probabilistic reinforcement learning"",
+    ""Bipolar disorder"",
+    ""Motivational dysregulation"",
+    ""Behavioral activation system""
+  ]
+}"
+219,5,"{
+  ""tags"": [
+    ""Processing speed"",
+    ""Model-based reinforcement learning"",
+    ""Working memory"",
+    ""Decision-making"",
+    ""Neural substrates""
+  ]
+}","{
+  ""tags"": [
+    ""Processing speed"",
+    ""Model-based reinforcement learning"",
+    ""Working memory"",
+    ""Decision-making"",
+    ""Neural substrates""
+  ]
+}"
+220,5,"{
+  ""tags"": [
+    ""Childhood Maltreatment"",
+    ""Reward Learning"",
+    ""Prefrontal Activity"",
+    ""Volatile Environments""
+  ]
+}","{
+  ""tags"": [
+    ""Childhood Maltreatment"",
+    ""Reward Learning"",
+    ""Prefrontal Activity"",
+    ""Volatile Environments""
+  ]
+}"
+221,5,"{
+  ""tags"": [
+    ""Adolescent Reward Processing"",
+    ""Reward Prediction Errors"",
+    ""Striatum Dopaminergic Signaling"",
+    ""Neural Decision Value Signals""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent Reward Processing"",
+    ""Reward Prediction Errors"",
+    ""Striatum Dopaminergic Signaling"",
+    ""Neural Decision Value Signals""
+  ]
+}"
+222,5,"{
+  ""tags"": [
+    ""Incentive Salience"",
+    ""Pavlovian Learning"",
+    ""Reward System"",
+    ""Physiological State""
+  ]
+}","{
+  ""tags"": [
+    ""Incentive Salience"",
+    ""Pavlovian Learning"",
+    ""Reward System"",
+    ""Physiological State""
+  ]
+}"
+223,5,"{
+  ""tags"": [
+    ""Attentional Perspective"",
+    ""Differential Fear Conditioning"",
+    ""Chronic Pain"",
+    ""Safety Cues""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Perspective"",
+    ""Differential Fear Conditioning"",
+    ""Chronic Pain"",
+    ""Safety Cues""
+  ]
+}"
+224,5,"{
+  ""tags"": [
+    ""alcohol demand"",
+    ""motivational states"",
+    ""approach and avoidance"",
+    ""reinforcing value of alcohol""
+  ]
+}","{
+  ""tags"": [
+    ""alcohol demand"",
+    ""motivational states"",
+    ""approach and avoidance"",
+    ""reinforcing value of alcohol""
+  ]
+}"
+225,5,"{
+  ""tags"": [
+    ""Spontaneous Eye Blink Rate"",
+    ""Dopamine"",
+    ""Reinforcement Learning"",
+    ""Striatal Dopamine""
+  ]
+}","{
+  ""tags"": [
+    ""Spontaneous Eye Blink Rate"",
+    ""Dopamine"",
+    ""Reinforcement Learning"",
+    ""Striatal Dopamine""
+  ]
+}"
+226,5,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Subjective Well-being"",
+    ""Reward Prediction Error"",
+    ""Adaptive Behavior""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Subjective Well-being"",
+    ""Reward Prediction Error"",
+    ""Adaptive Behavior""
+  ]
+}"
+227,5,"{
+  ""tags"": [
+    ""Conduct Disorder"",
+    ""Attention Deficit Hyperactivity Disorder"",
+    ""Punishment"",
+    ""Reward Processing"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Conduct Disorder"",
+    ""Attention Deficit Hyperactivity Disorder"",
+    ""Punishment"",
+    ""Reward Processing"",
+    ""Decision Making""
+  ]
+}"
+228,5,"{
+  ""tags"": [
+    ""Childhood Attention-Deficit/Hyperactivity Disorder"",
+    ""Asymmetrical Reward Prediction Error"",
+    ""Dopamine Neuron Signaling"",
+    ""TD(λ) Reinforcement Learning Model""
+  ]
+}","{
+  ""tags"": [
+    ""Childhood Attention-Deficit/Hyperactivity Disorder"",
+    ""Asymmetrical Reward Prediction Error"",
+    ""Dopamine Neuron Signaling"",
+    ""TD(λ) Reinforcement Learning Model""
+  ]
+}"
+229,5,"{
+  ""tags"": [
+    ""Instrumental Learning"",
+    ""Relearning"",
+    ""Amygdala"",
+    ""Orbitofrontal Cortex""
+  ]
+}","{
+  ""tags"": [
+    ""Instrumental Learning"",
+    ""Relearning"",
+    ""Amygdala"",
+    ""Orbitofrontal Cortex""
+  ]
+}"
+230,5,"{
+  ""tags"": [
+    ""Functional Neurological Disorder"",
+    ""Amygdala Reactivity"",
+    ""Harm Avoidance Theories"",
+    ""Negative Conditioning"",
+    ""Instrumental Associative Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Functional Neurological Disorder"",
+    ""Amygdala Reactivity"",
+    ""Harm Avoidance Theories"",
+    ""Negative Conditioning"",
+    ""Instrumental Associative Learning""
+  ]
+}"
+231,5,"{
+  ""tags"": [
+    ""Experiential Reward Learning"",
+    ""Instructional Prioritization"",
+    ""Child Development"",
+    ""Adolescent Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Experiential Reward Learning"",
+    ""Instructional Prioritization"",
+    ""Child Development"",
+    ""Adolescent Learning""
+  ]
+}"
+232,5,"{
+  ""tags"": [
+    ""Parkinson's disease"",
+    ""Pallidotomy"",
+    ""Probabilistic classification"",
+    ""Implicit learning""
+  ]
+}","{
+  ""tags"": [
+    ""Parkinson's disease"",
+    ""Pallidotomy"",
+    ""Probabilistic classification"",
+    ""Implicit learning""
+  ]
+}"
+233,5,"{
+  ""tags"": [
+    ""Binge Eating Disorder"",
+    ""Reward Networks"",
+    ""Functional Connectivity"",
+    ""Task-Based Functional Neuroimaging""
+  ]
+}","{
+  ""tags"": [
+    ""Binge Eating Disorder"",
+    ""Reward Networks"",
+    ""Functional Connectivity"",
+    ""Task-Based Functional Neuroimaging""
+  ]
+}"
+234,5,"{
+  ""tags"": [
+    ""Dyslexia"",
+    ""Probability Learning"",
+    ""Performance Monitoring"",
+    ""Frontostriatal Circuits""
+  ]
+}","{
+  ""tags"": [
+    ""Dyslexia"",
+    ""Probability Learning"",
+    ""Performance Monitoring"",
+    ""Frontostriatal Circuits""
+  ]
+}"
+235,5,"{
+  ""tags"": [
+    ""liking"",
+    ""wanting"",
+    ""reinforcement"",
+    ""neural"",
+    ""affective""
+  ]
+}","{
+  ""tags"": [
+    ""liking"",
+    ""wanting"",
+    ""reinforcement"",
+    ""neural"",
+    ""affective""
+  ]
+}"
+236,5,"{
+  ""tags"": [
+    ""Reinforcement-based responsiveness"",
+    ""Depression"",
+    ""Anhedonia"",
+    ""Intergenerational risk"",
+    ""Maternal influence""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement-based responsiveness"",
+    ""Depression"",
+    ""Anhedonia"",
+    ""Intergenerational risk"",
+    ""Maternal influence""
+  ]
+}"
+237,5,"{
+  ""tags"": [
+    ""Motivation Deficits in Depression"",
+    ""Neurobiology of Depression"",
+    ""Anhedonia and Motivation"",
+    ""Inflammation and Depression""
+  ]
+}","{
+  ""tags"": [
+    ""Motivation Deficits in Depression"",
+    ""Neurobiology of Depression"",
+    ""Anhedonia and Motivation"",
+    ""Inflammation and Depression""
+  ]
+}"
+238,5,"{
+  ""tags"": [
+    ""Loss Aversion Model-Based Control"",
+    ""Decision Systems Model-Based Planning"",
+    ""Risk Aversion Model-Based Control"",
+    ""Decision Making Model-Based Control""
+  ]
+}","{
+  ""tags"": [
+    ""Loss Aversion Model-Based Control"",
+    ""Decision Systems Model-Based Planning"",
+    ""Risk Aversion Model-Based Control"",
+    ""Decision Making Model-Based Control""
+  ]
+}"
+239,5,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Action-Outcome Associations"",
+    ""Threat-Related Cues"",
+    ""Goal-Directed Behavior""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Action-Outcome Associations"",
+    ""Threat-Related Cues"",
+    ""Goal-Directed Behavior""
+  ]
+}"
+240,5,"{
+  ""tags"": [
+    ""Behavioral control"",
+    ""Abstract inference"",
+    ""Reward prediction errors"",
+    ""Neural signatures""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral control"",
+    ""Abstract inference"",
+    ""Reward prediction errors"",
+    ""Neural signatures""
+  ]
+}"
+241,5,"{
+  ""tags"": [
+    ""addiction"",
+    ""neuroimaging"",
+    ""fictive error signals"",
+    ""computational models""
+  ]
+}","{
+  ""tags"": [
+    ""addiction"",
+    ""neuroimaging"",
+    ""fictive error signals"",
+    ""computational models""
+  ]
+}"
+242,5,"{
+  ""tags"": [
+    ""Ventral Striatum"",
+    ""Intrinsic Motivation"",
+    ""Working Memory"",
+    ""Neuroplasticity""
+  ]
+}","{
+  ""tags"": [
+    ""Ventral Striatum"",
+    ""Intrinsic Motivation"",
+    ""Working Memory"",
+    ""Neuroplasticity""
+  ]
+}"
+243,5,"{
+  ""tags"": [
+    ""Reward Dependent Invigoration"",
+    ""Theta Oscillations"",
+    ""Dopaminergic Midbrain Integrity"",
+    ""Healthy Aging""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Dependent Invigoration"",
+    ""Theta Oscillations"",
+    ""Dopaminergic Midbrain Integrity"",
+    ""Healthy Aging""
+  ]
+}"
+244,5,"{
+  ""tags"": [
+    ""basal ganglia"",
+    ""limbic territories"",
+    ""approach avoidance"",
+    ""anterior insula""
+  ]
+}","{
+  ""tags"": [
+    ""basal ganglia"",
+    ""limbic territories"",
+    ""approach avoidance"",
+    ""anterior insula""
+  ]
+}"
+245,5,"{
+  ""tags"": [
+    ""Neural Responses"",
+    ""Amygdala"",
+    ""Observational Learning"",
+    ""Reward Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Responses"",
+    ""Amygdala"",
+    ""Observational Learning"",
+    ""Reward Learning""
+  ]
+}"
+246,5,"{
+  ""tags"": [
+    ""Novelty Processing"",
+    ""Reward Processing"",
+    ""Personality Traits"",
+    ""Neural Mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Novelty Processing"",
+    ""Reward Processing"",
+    ""Personality Traits"",
+    ""Neural Mechanisms""
+  ]
+}"
+247,5,"{
+  ""tags"": [
+    ""ADHD"",
+    ""Dopamine Phasic/Tonic Imbalance"",
+    ""Reinforcement Learning"",
+    ""Neurocomputational Modeling""
+  ]
+}","{
+  ""tags"": [
+    ""ADHD"",
+    ""Dopamine Phasic/Tonic Imbalance"",
+    ""Reinforcement Learning"",
+    ""Neurocomputational Modeling""
+  ]
+}"
+248,5,"{
+  ""tags"": [
+    ""Adolescent Reinforcement Learning"",
+    ""Reward Sensitivity"",
+    ""Hippocampus"",
+    ""Reward Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent Reinforcement Learning"",
+    ""Reward Sensitivity"",
+    ""Hippocampus"",
+    ""Reward Learning""
+  ]
+}"
+249,5,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Hunger and Decision-Making"",
+    ""Model-Based vs. Model-Free Control"",
+    ""Metabolic Needs and Motivation""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Hunger and Decision-Making"",
+    ""Model-Based vs. Model-Free Control"",
+    ""Metabolic Needs and Motivation""
+  ]
+}"
+250,6,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Neural Processing"",
+    ""Ambiguity in Feedback"",
+    ""Valence and Magnitude"",
+    ""Event-Related Potentials""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Neural Processing"",
+    ""Ambiguity in Feedback"",
+    ""Valence and Magnitude"",
+    ""Event-Related Potentials""
+  ]
+}"
+251,6,"{
+  ""tags"": [
+    ""Theta Oscillations"",
+    ""Medial Prefrontal Cortex"",
+    ""Reward-Guided Learning"",
+    ""Neural Synchronization""
+  ]
+}","{
+  ""tags"": [
+    ""Theta Oscillations"",
+    ""Medial Prefrontal Cortex"",
+    ""Reward-Guided Learning"",
+    ""Neural Synchronization""
+  ]
+}"
+252,6,"{
+  ""tags"": [
+    ""Error-related Negativity"",
+    ""Dopamine"",
+    ""Cognitive Tasks"",
+    ""Conflict Biases""
+  ]
+}","{
+  ""tags"": [
+    ""Error-related Negativity"",
+    ""Dopamine"",
+    ""Cognitive Tasks"",
+    ""Conflict Biases""
+  ]
+}"
+253,6,"{
+  ""tags"": [
+    ""trial-to-trial feedback"",
+    ""error-related negativity"",
+    ""anxiety disorders"",
+    ""reinforcement learning"",
+    ""performance monitoring""
+  ]
+}","{
+  ""tags"": [
+    ""trial-to-trial feedback"",
+    ""error-related negativity"",
+    ""anxiety disorders"",
+    ""reinforcement learning"",
+    ""performance monitoring""
+  ]
+}"
+254,6,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Decision-Making"",
+    ""Neural Insensitivity"",
+    ""Sensation Seeking""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Decision-Making"",
+    ""Neural Insensitivity"",
+    ""Sensation Seeking""
+  ]
+}"
+255,6,"{
+  ""tags"": [
+    ""Event-Related Brain Potential (ERP)"",
+    ""Positive Feedback"",
+    ""Correct-Related Positivity"",
+    ""Sensitivity of the Event-Related Brain Potential""
+  ]
+}","{
+  ""tags"": [
+    ""Event-Related Brain Potential (ERP)"",
+    ""Positive Feedback"",
+    ""Correct-Related Positivity"",
+    ""Sensitivity of the Event-Related Brain Potential""
+  ]
+}"
+256,6,"{
+  ""tags"": [
+    ""Neural Signature"",
+    ""Social Evaluation"",
+    ""Reinforcement Learning"",
+    ""Frontal Cortex""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Signature"",
+    ""Social Evaluation"",
+    ""Reinforcement Learning"",
+    ""Frontal Cortex""
+  ]
+}"
+257,6,"{
+  ""tags"": [
+    ""Feedback-related negativity"",
+    ""Probabilistic reversal learning"",
+    ""Outcome-based behavioral adjustment"",
+    ""Electrophysiological activity"",
+    ""Medial frontal cortex""
+  ]
+}","{
+  ""tags"": [
+    ""Feedback-related negativity"",
+    ""Probabilistic reversal learning"",
+    ""Outcome-based behavioral adjustment"",
+    ""Electrophysiological activity"",
+    ""Medial frontal cortex""
+  ]
+}"
+258,6,"{
+  ""tags"": [
+    ""Performance Monitoring"",
+    ""EEG"",
+    ""Event-Related Potentials"",
+    ""Error Detection"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Performance Monitoring"",
+    ""EEG"",
+    ""Event-Related Potentials"",
+    ""Error Detection"",
+    ""Decision Making""
+  ]
+}"
+259,6,"{
+  ""tags"": [
+    ""Event-Related Potentials"",
+    ""Reward Positivity"",
+    ""Anxiety and Brain Activity"",
+    ""Feedback Delay and Anxiety""
+  ]
+}","{
+  ""tags"": [
+    ""Event-Related Potentials"",
+    ""Reward Positivity"",
+    ""Anxiety and Brain Activity"",
+    ""Feedback Delay and Anxiety""
+  ]
+}"
+260,6,"{
+  ""tags"": [
+    ""Frontal midline theta"",
+    ""Reward learning"",
+    ""Fear processing"",
+    ""Anxiety"",
+    ""Reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""Frontal midline theta"",
+    ""Reward learning"",
+    ""Fear processing"",
+    ""Anxiety"",
+    ""Reinforcement learning""
+  ]
+}"
+261,6,"{
+  ""tags"": [
+    ""Decision-Making"",
+    ""Model-Based"",
+    ""Model-Free"",
+    ""Event-Related Potentials"",
+    ""Computational Modeling""
+  ]
+}","{
+  ""tags"": [
+    ""Decision-Making"",
+    ""Model-Based"",
+    ""Model-Free"",
+    ""Event-Related Potentials"",
+    ""Computational Modeling""
+  ]
+}"
+262,6,"{
+  ""tags"": [
+    ""Anxiety and Learning"",
+    ""Feedback Processing"",
+    ""Dopaminergic System"",
+    ""Anxious and Non-Anxious Learners""
+  ]
+}","{
+  ""tags"": [
+    ""Anxiety and Learning"",
+    ""Feedback Processing"",
+    ""Dopaminergic System"",
+    ""Anxious and Non-Anxious Learners""
+  ]
+}"
+263,6,"{
+  ""tags"": [
+    ""Frontal theta"",
+    ""Reward prediction error"",
+    ""Behavioral adaptation"",
+    ""Neural oscillations""
+  ]
+}","{
+  ""tags"": [
+    ""Frontal theta"",
+    ""Reward prediction error"",
+    ""Behavioral adaptation"",
+    ""Neural oscillations""
+  ]
+}"
+264,6,"{
+  ""tags"": [
+    ""Conflict Monitoring"",
+    ""Cognitive Control"",
+    ""Error-Related Negativity"",
+    ""Internal Adjustments""
+  ]
+}","{
+  ""tags"": [
+    ""Conflict Monitoring"",
+    ""Cognitive Control"",
+    ""Error-Related Negativity"",
+    ""Internal Adjustments""
+  ]
+}"
+265,6,"{
+  ""tags"": [
+    ""anxiety"",
+    ""feedback negativity"",
+    ""event-related brain potential"",
+    ""outcome evaluation""
+  ]
+}","{
+  ""tags"": [
+    ""anxiety"",
+    ""feedback negativity"",
+    ""event-related brain potential"",
+    ""outcome evaluation""
+  ]
+}"
+266,6,"{
+  ""tags"": [
+    ""negative reinforcement learning"",
+    ""meditation"",
+    ""cognitive control"",
+    ""mesolimbic dopamine system""
+  ]
+}","{
+  ""tags"": [
+    ""negative reinforcement learning"",
+    ""meditation"",
+    ""cognitive control"",
+    ""mesolimbic dopamine system""
+  ]
+}"
+267,6,"{
+  ""tags"": [
+    ""Emotional Feedback"",
+    ""Reinforcement Learning"",
+    ""Working Memory"",
+    ""Neural Mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Emotional Feedback"",
+    ""Reinforcement Learning"",
+    ""Working Memory"",
+    ""Neural Mechanisms""
+  ]
+}"
+268,6,"{
+  ""tags"": [
+    ""Error-Related Negativity"",
+    ""Medial-Frontal Cortex"",
+    ""Predictive Error Processing"",
+    ""Motor Control""
+  ]
+}","{
+  ""tags"": [
+    ""Error-Related Negativity"",
+    ""Medial-Frontal Cortex"",
+    ""Predictive Error Processing"",
+    ""Motor Control""
+  ]
+}"
+269,6,"{
+  ""tags"": [
+    ""Competitive Decision Making"",
+    ""Neural Index"",
+    ""Outcome Valence"",
+    ""Motivational Significance""
+  ]
+}","{
+  ""tags"": [
+    ""Competitive Decision Making"",
+    ""Neural Index"",
+    ""Outcome Valence"",
+    ""Motivational Significance""
+  ]
+}"
+270,6,"{
+  ""tags"": [
+    ""reward prediction error"",
+    ""beta oscillations"",
+    ""frontal beta power"",
+    ""reward processing""
+  ]
+}","{
+  ""tags"": [
+    ""reward prediction error"",
+    ""beta oscillations"",
+    ""frontal beta power"",
+    ""reward processing""
+  ]
+}"
+271,6,"{
+  ""tags"": [
+    ""GABAB receptors"",
+    ""human reinforcement learning"",
+    ""baclofen"",
+    ""addiction spectrum disorders""
+  ]
+}","{
+  ""tags"": [
+    ""GABAB receptors"",
+    ""human reinforcement learning"",
+    ""baclofen"",
+    ""addiction spectrum disorders""
+  ]
+}"
+272,6,"{
+  ""tags"": [
+    ""Freedom of choice"",
+    ""Agency"",
+    ""Theta power"",
+    ""Feedback processing""
+  ]
+}","{
+  ""tags"": [
+    ""Freedom of choice"",
+    ""Agency"",
+    ""Theta power"",
+    ""Feedback processing""
+  ]
+}"
+273,6,"{
+  ""tags"": [
+    ""Reward Expectation"",
+    ""Feedback-Related Negativity"",
+    ""Probabilistic Reinforcement Learning"",
+    ""Event-Related Potentials""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Expectation"",
+    ""Feedback-Related Negativity"",
+    ""Probabilistic Reinforcement Learning"",
+    ""Event-Related Potentials""
+  ]
+}"
+274,6,"{
+  ""tags"": [
+    ""Emotion Regulation"",
+    ""Conflict Monitoring"",
+    ""Affective Science"",
+    ""Cognitive Neuroscience""
+  ]
+}","{
+  ""tags"": [
+    ""Emotion Regulation"",
+    ""Conflict Monitoring"",
+    ""Affective Science"",
+    ""Cognitive Neuroscience""
+  ]
+}"
+275,6,"{
+  ""tags"": [
+    ""reward prediction errors"",
+    ""reinforcement learning"",
+    ""electrophysiology"",
+    ""neural encoding"",
+    ""principal components analysis""
+  ]
+}","{
+  ""tags"": [
+    ""reward prediction errors"",
+    ""reinforcement learning"",
+    ""electrophysiology"",
+    ""neural encoding"",
+    ""principal components analysis""
+  ]
+}"
+276,6,"{
+  ""tags"": [
+    ""Abnormal approach-related motivation"",
+    ""Major depression"",
+    ""Reward processing"",
+    ""Fronto-midline Theta oscillations"",
+    ""Frontal Alpha asymmetry""
+  ]
+}","{
+  ""tags"": [
+    ""Abnormal approach-related motivation"",
+    ""Major depression"",
+    ""Reward processing"",
+    ""Fronto-midline Theta oscillations"",
+    ""Frontal Alpha asymmetry""
+  ]
+}"
+277,6,"{
+  ""tags"": [
+    ""Neural Learning Systems"",
+    ""Wellness and Brain"",
+    ""Reinforcement Learning"",
+    ""Gamification and Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Learning Systems"",
+    ""Wellness and Brain"",
+    ""Reinforcement Learning"",
+    ""Gamification and Learning""
+  ]
+}"
+278,6,"{
+  ""tags"": [
+    ""Frontal Oscillatory Dynamics"",
+    ""Feedback Learning"",
+    ""Action Adjustment"",
+    ""Theta Band Oscillations"",
+    ""Beta Band Oscillations""
+  ]
+}","{
+  ""tags"": [
+    ""Frontal Oscillatory Dynamics"",
+    ""Feedback Learning"",
+    ""Action Adjustment"",
+    ""Theta Band Oscillations"",
+    ""Beta Band Oscillations""
+  ]
+}"
+279,6,"{
+  ""tags"": [
+    ""State Prediction Error"",
+    ""Frontal Parietal Correlates"",
+    ""Learning Environment Model"",
+    ""Goal-Directed Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""State Prediction Error"",
+    ""Frontal Parietal Correlates"",
+    ""Learning Environment Model"",
+    ""Goal-Directed Reinforcement Learning""
+  ]
+}"
+280,6,"{
+  ""tags"": [
+    ""reward-enhanced memory"",
+    ""recollection processing"",
+    ""event-related potential"",
+    ""reward-learning"",
+    ""recognition memory""
+  ]
+}","{
+  ""tags"": [
+    ""reward-enhanced memory"",
+    ""recollection processing"",
+    ""event-related potential"",
+    ""reward-learning"",
+    ""recognition memory""
+  ]
+}"
+281,6,"{
+  ""tags"": [
+    ""Feedback-related Negativity"",
+    ""Reward Prediction Errors"",
+    ""Neural System"",
+    ""Frontocentral Negative Deflection""
+  ]
+}","{
+  ""tags"": [
+    ""Feedback-related Negativity"",
+    ""Reward Prediction Errors"",
+    ""Neural System"",
+    ""Frontocentral Negative Deflection""
+  ]
+}"
+282,6,"{
+  ""tags"": [
+    ""Perceptual Expertise"",
+    ""Reinforcement Learning"",
+    ""Error-Related Negativity"",
+    ""Neural Mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Perceptual Expertise"",
+    ""Reinforcement Learning"",
+    ""Error-Related Negativity"",
+    ""Neural Mechanisms""
+  ]
+}"
+283,6,"{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""decision-making"",
+    ""neural responses"",
+    ""reward prediction errors""
+  ]
+}","{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""decision-making"",
+    ""neural responses"",
+    ""reward prediction errors""
+  ]
+}"
+284,6,"{
+  ""tags"": [
+    ""Reward-Positivity"",
+    ""Reward Prediction Error"",
+    ""Salience-Prediction Error"",
+    ""Outcome Valence""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-Positivity"",
+    ""Reward Prediction Error"",
+    ""Salience-Prediction Error"",
+    ""Outcome Valence""
+  ]
+}"
+285,6,"{
+  ""tags"": [
+    ""Error-related Negativity"",
+    ""Sustained Threat"",
+    ""Cognitive Control"",
+    ""Adolescent Development""
+  ]
+}","{
+  ""tags"": [
+    ""Error-related Negativity"",
+    ""Sustained Threat"",
+    ""Cognitive Control"",
+    ""Adolescent Development""
+  ]
+}"
+286,6,"{
+  ""tags"": [
+    ""Monetary Incentive Delay Task"",
+    ""Sensory Processing"",
+    ""ERP Evidence"",
+    ""Cognitive Plasticity"",
+    ""Involuntary Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Monetary Incentive Delay Task"",
+    ""Sensory Processing"",
+    ""ERP Evidence"",
+    ""Cognitive Plasticity"",
+    ""Involuntary Attention""
+  ]
+}"
+287,6,"{
+  ""tags"": [
+    ""Error and Feedback Processing"",
+    ""Children with ADHD"",
+    ""Children with Autism Spectrum Disorder"",
+    ""EEG Event-Related Potentials""
+  ]
+}","{
+  ""tags"": [
+    ""Error and Feedback Processing"",
+    ""Children with ADHD"",
+    ""Children with Autism Spectrum Disorder"",
+    ""EEG Event-Related Potentials""
+  ]
+}"
+288,6,"{
+  ""tags"": [
+    ""ACC"",
+    ""ACC"",
+    ""ACC"",
+    ""ACC""
+  ]
+}","{
+  ""tags"": [
+    ""ACC"",
+    ""ACC"",
+    ""ACC"",
+    ""ACC""
+  ]
+}"
+289,6,"{
+  ""tags"": [
+    ""Cerebellum"",
+    ""Learning"",
+    ""Feedback"",
+    ""Neuroimaging"",
+    ""PerformanceMonitoring""
+  ]
+}","{
+  ""tags"": [
+    ""Cerebellum"",
+    ""Learning"",
+    ""Feedback"",
+    ""Neuroimaging"",
+    ""PerformanceMonitoring""
+  ]
+}"
+290,6,"{
+  ""tags"": [
+    ""Feedback-Related Negativity"",
+    ""Instantaneous-Long-Term Value"",
+    ""Reward-Positivity"",
+    ""Hierarchical Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Feedback-Related Negativity"",
+    ""Instantaneous-Long-Term Value"",
+    ""Reward-Positivity"",
+    ""Hierarchical Reinforcement Learning""
+  ]
+}"
+291,6,"{
+  ""tags"": [
+    ""Feedback Processing"",
+    ""EEG"",
+    ""Neural Signatures"",
+    ""Human Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Feedback Processing"",
+    ""EEG"",
+    ""Neural Signatures"",
+    ""Human Learning""
+  ]
+}"
+292,6,"{
+  ""tags"": [
+    ""Frontal theta"",
+    ""Impulsivity"",
+    ""Negative reinforcement"",
+    ""Avoidance"",
+    ""Perseverance""
+  ]
+}","{
+  ""tags"": [
+    ""Frontal theta"",
+    ""Impulsivity"",
+    ""Negative reinforcement"",
+    ""Avoidance"",
+    ""Perseverance""
+  ]
+}"
+293,6,"{
+  ""tags"": [
+    ""Feedback Delay"",
+    ""Feedback Agency"",
+    ""Dopamine Cell Firing"",
+    ""Reinforcement Learning"",
+    ""Theta Band Power""
+  ]
+}","{
+  ""tags"": [
+    ""Feedback Delay"",
+    ""Feedback Agency"",
+    ""Dopamine Cell Firing"",
+    ""Reinforcement Learning"",
+    ""Theta Band Power""
+  ]
+}"
+294,6,"{
+  ""tags"": [
+    ""Anterior Cingulate Cortex"",
+    ""Conflict and Reward Processing"",
+    ""Effort-Based Decision Making"",
+    ""Frontal Midline Theta"",
+    ""Reward Positivity""
+  ]
+}","{
+  ""tags"": [
+    ""Anterior Cingulate Cortex"",
+    ""Conflict and Reward Processing"",
+    ""Effort-Based Decision Making"",
+    ""Frontal Midline Theta"",
+    ""Reward Positivity""
+  ]
+}"
+295,6,"{
+  ""tags"": [
+    ""Reward Prediction Errors"",
+    ""Mediofrontal"",
+    ""Event-Related Potentials"",
+    ""Positive RPEs"",
+    ""Negative RPEs""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Prediction Errors"",
+    ""Mediofrontal"",
+    ""Event-Related Potentials"",
+    ""Positive RPEs"",
+    ""Negative RPEs""
+  ]
+}"
+296,6,"{
+  ""tags"": [
+    ""reward prediction"",
+    ""outcome monitoring"",
+    ""medial frontal"",
+    ""event-related potentials""
+  ]
+}","{
+  ""tags"": [
+    ""reward prediction"",
+    ""outcome monitoring"",
+    ""medial frontal"",
+    ""event-related potentials""
+  ]
+}"
+297,6,"{
+  ""tags"": [
+    ""reward-related brain activity"",
+    ""reinforcement learning"",
+    ""effort minimization"",
+    ""behavioral economics""
+  ]
+}","{
+  ""tags"": [
+    ""reward-related brain activity"",
+    ""reinforcement learning"",
+    ""effort minimization"",
+    ""behavioral economics""
+  ]
+}"
+298,6,"{
+  ""tags"": [
+    ""medial prefrontal cortex"",
+    ""electrophysiology"",
+    ""reinforcement learning"",
+    ""hierarchy of reinforcement""
+  ]
+}","{
+  ""tags"": [
+    ""medial prefrontal cortex"",
+    ""electrophysiology"",
+    ""reinforcement learning"",
+    ""hierarchy of reinforcement""
+  ]
+}"
+299,6,"{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Psychopathy"",
+    ""Feedback Processing"",
+    ""Behavioral Adaptation""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Psychopathy"",
+    ""Feedback Processing"",
+    ""Behavioral Adaptation""
+  ]
+}"
+300,7,"{
+  ""tags"": [
+    ""Implicit Learning"",
+    ""Spatial Attention"",
+    ""Eye Tracking"",
+    ""Attentional Bias""
+  ]
+}","{
+  ""tags"": [
+    ""Implicit Learning"",
+    ""Spatial Attention"",
+    ""Eye Tracking"",
+    ""Attentional Bias""
+  ]
+}"
+301,7,"{
+  ""tags"": [
+    ""Spatial Attention"",
+    ""Visual Field"",
+    ""Implicit Learning"",
+    ""Attentional Bias""
+  ]
+}","{
+  ""tags"": [
+    ""Spatial Attention"",
+    ""Visual Field"",
+    ""Implicit Learning"",
+    ""Attentional Bias""
+  ]
+}"
+302,7,"{
+  ""tags"": [
+    ""Attentional Processes"",
+    ""Visual Attention"",
+    ""Deafferentation"",
+    ""Cue Validity""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Processes"",
+    ""Visual Attention"",
+    ""Deafferentation"",
+    ""Cue Validity""
+  ]
+}"
+303,7,"{
+  ""tags"": [
+    ""oculomotor control"",
+    ""attentional bias"",
+    ""search habit"",
+    ""eye movements""
+  ]
+}","{
+  ""tags"": [
+    ""oculomotor control"",
+    ""attentional bias"",
+    ""search habit"",
+    ""eye movements""
+  ]
+}"
+304,7,"{
+  ""tags"": [
+    ""Expectancy and Visual-Spatial Attention"",
+    ""Perceptual Quality"",
+    ""Spatial Attention"",
+    ""Task-Specific Sensitivity""
+  ]
+}","{
+  ""tags"": [
+    ""Expectancy and Visual-Spatial Attention"",
+    ""Perceptual Quality"",
+    ""Spatial Attention"",
+    ""Task-Specific Sensitivity""
+  ]
+}"
+305,7,"{
+  ""tags"": [
+    ""Transient Attention"",
+    ""Spatiotemporal Visual Attention"",
+    ""Categorically Defined Targets"",
+    ""Transient Attention to Salient Cue""
+  ]
+}","{
+  ""tags"": [
+    ""Transient Attention"",
+    ""Spatiotemporal Visual Attention"",
+    ""Categorically Defined Targets"",
+    ""Transient Attention to Salient Cue""
+  ]
+}"
+306,7,"{
+  ""tags"": [
+    ""Right Hemisphere Damage"",
+    ""Statistical Learning"",
+    ""Spatial Priming"",
+    ""Neuroplasticity""
+  ]
+}","{
+  ""tags"": [
+    ""Right Hemisphere Damage"",
+    ""Statistical Learning"",
+    ""Spatial Priming"",
+    ""Neuroplasticity""
+  ]
+}"
+307,7,"{
+  ""tags"": [
+    ""Learning"",
+    ""Probability"",
+    ""Task"",
+    ""Representation""
+  ]
+}","{
+  ""tags"": [
+    ""Learning"",
+    ""Probability"",
+    ""Task"",
+    ""Representation""
+  ]
+}"
+308,7,"{
+  ""tags"": [
+    ""Location Probability Learning"",
+    ""Goal-Driven Attention"",
+    ""Spatial Attention"",
+    ""Task Goals""
+  ]
+}","{
+  ""tags"": [
+    ""Location Probability Learning"",
+    ""Goal-Driven Attention"",
+    ""Spatial Attention"",
+    ""Task Goals""
+  ]
+}"
+309,7,"{
+  ""tags"": [
+    ""location probability learning"",
+    ""memory-guided visual search"",
+    ""psychometrics"",
+    ""individual differences"",
+    ""measurement noise""
+  ]
+}","{
+  ""tags"": [
+    ""location probability learning"",
+    ""memory-guided visual search"",
+    ""psychometrics"",
+    ""individual differences"",
+    ""measurement noise""
+  ]
+}"
+310,7,"{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Statistical Learning"",
+    ""Eye Tracking"",
+    ""Spatial Priority Map""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Statistical Learning"",
+    ""Eye Tracking"",
+    ""Spatial Priority Map""
+  ]
+}"
+311,7,"{
+  ""tags"": [
+    ""Task-Irrelevant-Perceptual-Learning"",
+    ""Perceptual-Learning"",
+    ""Attention"",
+    ""Attentional-Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Task-Irrelevant-Perceptual-Learning"",
+    ""Perceptual-Learning"",
+    ""Attention"",
+    ""Attentional-Learning""
+  ]
+}"
+312,7,"{
+  ""tags"": [
+    ""allocentric reference frame"",
+    ""object location processing"",
+    ""temporal dynamics"",
+    ""egocentric navigation""
+  ]
+}","{
+  ""tags"": [
+    ""allocentric reference frame"",
+    ""object location processing"",
+    ""temporal dynamics"",
+    ""egocentric navigation""
+  ]
+}"
+313,7,"{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Statistical Learning"",
+    ""Spatial Priority Map"",
+    ""Intertrial Associations""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Selection"",
+    ""Statistical Learning"",
+    ""Spatial Priority Map"",
+    ""Intertrial Associations""
+  ]
+}"
+314,7,"{
+  ""tags"": [
+    ""Visual Working Memory"",
+    ""Attention Allocation"",
+    ""Incidental Learning"",
+    ""Probability Information""
+  ]
+}","{
+  ""tags"": [
+    ""Visual Working Memory"",
+    ""Attention Allocation"",
+    ""Incidental Learning"",
+    ""Probability Information""
+  ]
+}"
+315,7,"{
+  ""tags"": [
+    ""BehavioralReinforcementLearning"",
+    ""StatisticalLearning"",
+    ""CrossTrialLearning"",
+    ""TargetLocation"",
+    ""ResponseRequired""
+  ]
+}","{
+  ""tags"": [
+    ""BehavioralReinforcementLearning"",
+    ""StatisticalLearning"",
+    ""CrossTrialLearning"",
+    ""TargetLocation"",
+    ""ResponseRequired""
+  ]
+}"
+316,7,"{
+  ""tags"": [
+    ""Location Probability Learning"",
+    ""3D Virtual Search Environments"",
+    ""Virtual Reality"",
+    ""Spatial Coding"",
+    ""Visual Statistical Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Location Probability Learning"",
+    ""3D Virtual Search Environments"",
+    ""Virtual Reality"",
+    ""Spatial Coding"",
+    ""Visual Statistical Learning""
+  ]
+}"
+317,7,"{
+  ""tags"": [
+    ""Attentional Learning"",
+    ""Spatial Probability"",
+    ""Neurocognitive Mechanisms"",
+    ""Attentional Filtering""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Learning"",
+    ""Spatial Probability"",
+    ""Neurocognitive Mechanisms"",
+    ""Attentional Filtering""
+  ]
+}"
+318,7,"{
+  ""tags"": [
+    ""Attentional Cues"",
+    ""Real Scenes"",
+    ""Saccadic Targeting"",
+    ""Bayesian Priors""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Cues"",
+    ""Real Scenes"",
+    ""Saccadic Targeting"",
+    ""Bayesian Priors""
+  ]
+}"
+319,7,"{
+  ""tags"": [
+    ""Attentional Boost Effect"",
+    ""Timing and Memory"",
+    ""Reinforcement Learning"",
+    ""Perceptual Grouping""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Boost Effect"",
+    ""Timing and Memory"",
+    ""Reinforcement Learning"",
+    ""Perceptual Grouping""
+  ]
+}"
+320,7,"{
+  ""tags"": [
+    ""Attentional Effect"",
+    ""Spatial Probability Learning"",
+    ""Orientation vs Spatial Probability"",
+    ""Probabilistic Information""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Effect"",
+    ""Spatial Probability Learning"",
+    ""Orientation vs Spatial Probability"",
+    ""Probabilistic Information""
+  ]
+}"
+321,7,"{
+  ""tags"": [
+    ""Virtual Driving Task"",
+    ""Eye Movements"",
+    ""Uncertainty"",
+    ""Reward Structure""
+  ]
+}","{
+  ""tags"": [
+    ""Virtual Driving Task"",
+    ""Eye Movements"",
+    ""Uncertainty"",
+    ""Reward Structure""
+  ]
+}"
+322,7,"{
+  ""tags"": [
+    ""Spatial reference frame"",
+    ""Visual attention"",
+    ""Incidental learning"",
+    ""Probability cuing""
+  ]
+}","{
+  ""tags"": [
+    ""Spatial reference frame"",
+    ""Visual attention"",
+    ""Incidental learning"",
+    ""Probability cuing""
+  ]
+}"
+323,7,"{
+  ""tags"": [
+    ""task-irrelevant cross-modal statistical regularities"",
+    ""distractor suppression"",
+    ""perceptual processing"",
+    ""statistical regularities""
+  ]
+}","{
+  ""tags"": [
+    ""task-irrelevant cross-modal statistical regularities"",
+    ""distractor suppression"",
+    ""perceptual processing"",
+    ""statistical regularities""
+  ]
+}"
+324,7,"{
+  ""tags"": [
+    ""Parkinson's disease"",
+    ""spatial attention"",
+    ""dopaminergic system"",
+    ""location probability learning""
+  ]
+}","{
+  ""tags"": [
+    ""Parkinson's disease"",
+    ""spatial attention"",
+    ""dopaminergic system"",
+    ""location probability learning""
+  ]
+}"
+325,7,"{
+  ""tags"": [
+    ""Implicit Location Probability Learning"",
+    ""Spatial Attention"",
+    ""Task-Dependent Attention"",
+    ""Attentional Bias""
+  ]
+}","{
+  ""tags"": [
+    ""Implicit Location Probability Learning"",
+    ""Spatial Attention"",
+    ""Task-Dependent Attention"",
+    ""Attentional Bias""
+  ]
+}"
+326,7,"{
+  ""tags"": [
+    ""Object-Based Statistical Learning"",
+    ""Attentional Selection"",
+    ""Spatial Prioritization"",
+    ""Object-Based Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Object-Based Statistical Learning"",
+    ""Attentional Selection"",
+    ""Spatial Prioritization"",
+    ""Object-Based Attention""
+  ]
+}"
+327,7,"{
+  ""tags"": [
+    ""Socially important visual search tasks"",
+    ""Rare targets"",
+    ""Consequences of failed detection"",
+    ""Prevalence effect""
+  ]
+}","{
+  ""tags"": [
+    ""Socially important visual search tasks"",
+    ""Rare targets"",
+    ""Consequences of failed detection"",
+    ""Prevalence effect""
+  ]
+}"
+328,7,"{
+  ""tags"": [
+    ""Attentional Learning"",
+    ""Peripheral Vision"",
+    ""Guided Search"",
+    ""Location Probability Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Learning"",
+    ""Peripheral Vision"",
+    ""Guided Search"",
+    ""Location Probability Learning""
+  ]
+}"
+329,7,"{
+  ""tags"": [
+    ""egocentric coding of space"",
+    ""incidentally learned attention"",
+    ""visuospatial attention"",
+    ""scene context""
+  ]
+}","{
+  ""tags"": [
+    ""egocentric coding of space"",
+    ""incidentally learned attention"",
+    ""visuospatial attention"",
+    ""scene context""
+  ]
+}"
+330,7,"{
+  ""tags"": [
+    ""Covert Visual Spatial Attention"",
+    ""Disengage Operation"",
+    ""Saccadic Eye Movements"",
+    ""Cue Offset""
+  ]
+}","{
+  ""tags"": [
+    ""Covert Visual Spatial Attention"",
+    ""Disengage Operation"",
+    ""Saccadic Eye Movements"",
+    ""Cue Offset""
+  ]
+}"
+331,7,"{
+  ""tags"": [
+    ""unconscious attention"",
+    ""subliminal cues"",
+    ""attentional selection"",
+    ""reward learning"",
+    ""selection history""
+  ]
+}","{
+  ""tags"": [
+    ""unconscious attention"",
+    ""subliminal cues"",
+    ""attentional selection"",
+    ""reward learning"",
+    ""selection history""
+  ]
+}"
+332,7,"{
+  ""tags"": [
+    ""Visual Search"",
+    ""Statistical Learning"",
+    ""Distractor Suppression"",
+    ""Spatial Priority Map""
+  ]
+}","{
+  ""tags"": [
+    ""Visual Search"",
+    ""Statistical Learning"",
+    ""Distractor Suppression"",
+    ""Spatial Priority Map""
+  ]
+}"
+333,7,"{
+  ""tags"": [
+    ""Visual Search"",
+    ""Prospective Memory"",
+    ""Retrospective Memory"",
+    ""Attention Guided Search""
+  ]
+}","{
+  ""tags"": [
+    ""Visual Search"",
+    ""Prospective Memory"",
+    ""Retrospective Memory"",
+    ""Attention Guided Search""
+  ]
+}"
+334,7,"{
+  ""tags"": [
+    ""Implicit Attentional Learning"",
+    ""Peripheral Vision"",
+    ""Mouse Eye Paradigm"",
+    ""Spatial Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Implicit Attentional Learning"",
+    ""Peripheral Vision"",
+    ""Mouse Eye Paradigm"",
+    ""Spatial Attention""
+  ]
+}"
+335,7,"{
+  ""tags"": [
+    ""Volitional Orienting"",
+    ""Neocortical vs Subcortical"",
+    ""Monocular Channels"",
+    ""Endogenous Facilitation""
+  ]
+}","{
+  ""tags"": [
+    ""Volitional Orienting"",
+    ""Neocortical vs Subcortical"",
+    ""Monocular Channels"",
+    ""Endogenous Facilitation""
+  ]
+}"
+336,7,"{
+  ""tags"": [
+    ""Spatial Probability Cuing"",
+    ""Right Hemisphere Damage"",
+    ""Statistical Learning"",
+    ""Visual Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Spatial Probability Cuing"",
+    ""Right Hemisphere Damage"",
+    ""Statistical Learning"",
+    ""Visual Attention""
+  ]
+}"
+337,7,"{
+  ""tags"": [
+    ""saccade latencies"",
+    ""discriminative control"",
+    ""saccadic reaction times"",
+    ""search task"",
+    ""reinforcement contingencies""
+  ]
+}","{
+  ""tags"": [
+    ""saccade latencies"",
+    ""discriminative control"",
+    ""saccadic reaction times"",
+    ""search task"",
+    ""reinforcement contingencies""
+  ]
+}"
+338,7,"{
+  ""tags"": [
+    ""Habit-like attentional bias"",
+    ""Statistical knowledge"",
+    ""Visual search"",
+    ""Spatial attention""
+  ]
+}","{
+  ""tags"": [
+    ""Habit-like attentional bias"",
+    ""Statistical knowledge"",
+    ""Visual search"",
+    ""Spatial attention""
+  ]
+}"
+339,7,"{
+  ""tags"": [
+    ""Visual-Spatial Attention"",
+    ""Multiple Targets"",
+    ""Endogenous Attention"",
+    ""Rapid Processing""
+  ]
+}","{
+  ""tags"": [
+    ""Visual-Spatial Attention"",
+    ""Multiple Targets"",
+    ""Endogenous Attention"",
+    ""Rapid Processing""
+  ]
+}"
+340,7,"{
+  ""tags"": [
+    ""auditory spatial attention"",
+    ""selection history"",
+    ""auditory search"",
+    ""attentional selection""
+  ]
+}","{
+  ""tags"": [
+    ""auditory spatial attention"",
+    ""selection history"",
+    ""auditory search"",
+    ""attentional selection""
+  ]
+}"
+341,7,"{
+  ""tags"": [
+    ""Implicit Spatial Preference"",
+    ""Individual Differences"",
+    ""Implicit Location Probability"",
+    ""Stability of Individual Differences""
+  ]
+}","{
+  ""tags"": [
+    ""Implicit Spatial Preference"",
+    ""Individual Differences"",
+    ""Implicit Location Probability"",
+    ""Stability of Individual Differences""
+  ]
+}"
+342,7,"{
+  ""tags"": [
+    ""Perceptual task"",
+    ""Saccadic adaptation"",
+    ""Target selection"",
+    ""Adaptation"",
+    ""Error correction""
+  ]
+}","{
+  ""tags"": [
+    ""Perceptual task"",
+    ""Saccadic adaptation"",
+    ""Target selection"",
+    ""Adaptation"",
+    ""Error correction""
+  ]
+}"
+343,7,"{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Working Memory Load"",
+    ""Implicit Learning"",
+    ""Implicit Memory""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Suppression"",
+    ""Working Memory Load"",
+    ""Implicit Learning"",
+    ""Implicit Memory""
+  ]
+}"
+344,7,"{
+  ""tags"": [
+    ""Spatial Enhancement"",
+    ""Statistical Learning"",
+    ""Attentional Selection"",
+    ""Probabilistic Maps""
+  ]
+}","{
+  ""tags"": [
+    ""Spatial Enhancement"",
+    ""Statistical Learning"",
+    ""Attentional Selection"",
+    ""Probabilistic Maps""
+  ]
+}"
+345,7,"{
+  ""tags"": [
+    ""Attentional Set"",
+    ""Change Blindness"",
+    ""Color Singletons"",
+    ""Discontinuity in Colour""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Set"",
+    ""Change Blindness"",
+    ""Color Singletons"",
+    ""Discontinuity in Colour""
+  ]
+}"
+346,7,"{
+  ""tags"": [
+    ""Joint Predictors"",
+    ""Cognitive System"",
+    ""Statistical Relationships"",
+    ""Conjunctive Predictions""
+  ]
+}","{
+  ""tags"": [
+    ""Joint Predictors"",
+    ""Cognitive System"",
+    ""Statistical Relationships"",
+    ""Conjunctive Predictions""
+  ]
+}"
+347,7,"{
+  ""tags"": [
+    ""Visual Search"",
+    ""Reward Frequency"",
+    ""Reward Magnitude"",
+    ""Spatial Attention""
+  ]
+}","{
+  ""tags"": [
+    ""Visual Search"",
+    ""Reward Frequency"",
+    ""Reward Magnitude"",
+    ""Spatial Attention""
+  ]
+}"
+348,7,"{
+  ""tags"": [
+    ""Attentional Preference"",
+    ""Eye Gaze"",
+    ""Spatial Attention"",
+    ""Oculomotor Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Attentional Preference"",
+    ""Eye Gaze"",
+    ""Spatial Attention"",
+    ""Oculomotor Learning""
+  ]
+}"
+349,7,"{
+  ""tags"": [
+    ""Visual-Search"",
+    ""Attention-Theories"",
+    ""Spatial-Statistical-Distractor-Learning"",
+    ""Prior-Experience"",
+    ""Spatial-Suppression""
+  ]
+}","{
+  ""tags"": [
+    ""Visual-Search"",
+    ""Attention-Theories"",
+    ""Spatial-Statistical-Distractor-Learning"",
+    ""Prior-Experience"",
+    ""Spatial-Suppression""
+  ]
+}"
+350,8,"{
+  ""tags"": [
+    ""Probabilistic Successor Representation"",
+    ""Context-Dependent Learning"",
+    ""Hippocampal Encoding"",
+    ""Uncertainty in RL""
+  ]
+}","{
+  ""tags"": [
+    ""Probabilistic Successor Representation"",
+    ""Context-Dependent Learning"",
+    ""Hippocampal Encoding"",
+    ""Uncertainty in RL""
+  ]
+}"
+351,8,"{
+  ""tags"": [
+    ""rodent orbitofrontal cortex"",
+    ""rodent medial prefrontal cortex"",
+    ""value-based decision making"",
+    ""dynamic two-armed bandit task""
+  ]
+}","{
+  ""tags"": [
+    ""rodent orbitofrontal cortex"",
+    ""rodent medial prefrontal cortex"",
+    ""value-based decision making"",
+    ""dynamic two-armed bandit task""
+  ]
+}"
+352,8,"{
+  ""tags"": [
+    ""Cerebellar learning"",
+    ""Temporal-difference prediction error"",
+    ""Dopamine neurons"",
+    ""Reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""Cerebellar learning"",
+    ""Temporal-difference prediction error"",
+    ""Dopamine neurons"",
+    ""Reinforcement learning""
+  ]
+}"
+353,8,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Closed Negative Feedback Control"",
+    ""Neurobiology"",
+    ""Behavior Analysis Critique""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Closed Negative Feedback Control"",
+    ""Neurobiology"",
+    ""Behavior Analysis Critique""
+  ]
+}"
+354,8,"{
+  ""tags"": [
+    ""Temporal Dynamics"",
+    ""Semantic vs Affective Representations"",
+    ""Reversal Learning"",
+    ""Uncertainty Effects""
+  ]
+}","{
+  ""tags"": [
+    ""Temporal Dynamics"",
+    ""Semantic vs Affective Representations"",
+    ""Reversal Learning"",
+    ""Uncertainty Effects""
+  ]
+}"
+355,8,"{
+  ""tags"": [
+    ""uncertainty-driven exploration"",
+    ""rostrolateral prefrontal cortex"",
+    ""uncertainty estimation"",
+    ""reward-driven decision making""
+  ]
+}","{
+  ""tags"": [
+    ""uncertainty-driven exploration"",
+    ""rostrolateral prefrontal cortex"",
+    ""uncertainty estimation"",
+    ""reward-driven decision making""
+  ]
+}"
+356,8,"{
+  ""tags"": [
+    ""Neural Circuits"",
+    ""Reinforcement Learning"",
+    ""Probabilistic Inference"",
+    ""Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Circuits"",
+    ""Reinforcement Learning"",
+    ""Probabilistic Inference"",
+    ""Decision Making""
+  ]
+}"
+357,8,"{
+  ""tags"": [
+    ""Behavioral Variant Frontotemporal Dementia"",
+    ""Balloon Analog Risk Task"",
+    ""Decision Making"",
+    ""Frontal Lobe Atrophy""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Variant Frontotemporal Dementia"",
+    ""Balloon Analog Risk Task"",
+    ""Decision Making"",
+    ""Frontal Lobe Atrophy""
+  ]
+}"
+358,8,"{
+  ""tags"": [
+    ""Temporal Discounting"",
+    ""Foraging Behavior"",
+    ""Sequential Decision-Making"",
+    ""Optimal Foraging Models""
+  ]
+}","{
+  ""tags"": [
+    ""Temporal Discounting"",
+    ""Foraging Behavior"",
+    ""Sequential Decision-Making"",
+    ""Optimal Foraging Models""
+  ]
+}"
+359,8,"{
+  ""tags"": [
+    ""Decision Making"",
+    ""Uncertainty"",
+    ""Reward and Punishment"",
+    ""Computational Models of Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Decision Making"",
+    ""Uncertainty"",
+    ""Reward and Punishment"",
+    ""Computational Models of Learning""
+  ]
+}"
+360,8,"{
+  ""tags"": [
+    ""Decision Neuroscience"",
+    ""Neuroeconomics"",
+    ""Reward Learning"",
+    ""Emotion and Motivation""
+  ]
+}","{
+  ""tags"": [
+    ""Decision Neuroscience"",
+    ""Neuroeconomics"",
+    ""Reward Learning"",
+    ""Emotion and Motivation""
+  ]
+}"
+361,8,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Self-Regulated Sensorimotor β-Oscillations"",
+    ""Motor Performance"",
+    ""Neurorehabilitation"",
+    ""Brain-Computer Interface""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Self-Regulated Sensorimotor β-Oscillations"",
+    ""Motor Performance"",
+    ""Neurorehabilitation"",
+    ""Brain-Computer Interface""
+  ]
+}"
+362,8,"{
+  ""tags"": [
+    ""Iowa Gambling Task"",
+    ""Executive Function"",
+    ""Decision Making"",
+    ""Risky Gains""
+  ]
+}","{
+  ""tags"": [
+    ""Iowa Gambling Task"",
+    ""Executive Function"",
+    ""Decision Making"",
+    ""Risky Gains""
+  ]
+}"
+363,8,"{
+  ""tags"": [
+    ""Neural Decision Making"",
+    ""Spike Trains"",
+    ""Poisson Processes"",
+    ""Optimal Decision Procedures""
+  ]
+}","{
+  ""tags"": [
+    ""Neural Decision Making"",
+    ""Spike Trains"",
+    ""Poisson Processes"",
+    ""Optimal Decision Procedures""
+  ]
+}"
+364,8,"{
+  ""tags"": [
+    ""Cognitive Decision-Making"",
+    ""Value-Based Decision-Making"",
+    ""Rapid Visuomotor Responses"",
+    ""Feedback Control"",
+    ""Risk Sensitivity""
+  ]
+}","{
+  ""tags"": [
+    ""Cognitive Decision-Making"",
+    ""Value-Based Decision-Making"",
+    ""Rapid Visuomotor Responses"",
+    ""Feedback Control"",
+    ""Risk Sensitivity""
+  ]
+}"
+365,8,"{
+  ""tags"": [
+    ""Error-Based Learning"",
+    ""Reinforcement Learning"",
+    ""Motor Learning"",
+    ""Cerebellar Plasticity"",
+    ""Primary Motor Cortex""
+  ]
+}","{
+  ""tags"": [
+    ""Error-Based Learning"",
+    ""Reinforcement Learning"",
+    ""Motor Learning"",
+    ""Cerebellar Plasticity"",
+    ""Primary Motor Cortex""
+  ]
+}"
+366,8,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Irrelevant Stimulus-Response Associations"",
+    ""Cognitive Control"",
+    ""Simon Effect""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Irrelevant Stimulus-Response Associations"",
+    ""Cognitive Control"",
+    ""Simon Effect""
+  ]
+}"
+367,8,"{
+  ""tags"": [
+    ""Adolescent and adult mice"",
+    ""Incremental reinforcement learning"",
+    ""Short-term memory"",
+    ""Computational modeling"",
+    ""Human research participants""
+  ]
+}","{
+  ""tags"": [
+    ""Adolescent and adult mice"",
+    ""Incremental reinforcement learning"",
+    ""Short-term memory"",
+    ""Computational modeling"",
+    ""Human research participants""
+  ]
+}"
+368,8,"{
+  ""tags"": [
+    ""Motivational-Based Learning"",
+    ""Mobile Robots"",
+    ""Hedonic Dimensions"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Motivational-Based Learning"",
+    ""Mobile Robots"",
+    ""Hedonic Dimensions"",
+    ""Reinforcement Learning""
+  ]
+}"
+369,8,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Neuroscience"",
+    ""Psychology"",
+    ""Animal Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Neuroscience"",
+    ""Psychology"",
+    ""Animal Learning""
+  ]
+}"
+370,8,"{
+  ""tags"": [
+    ""songbird brain"",
+    ""subthalamic nucleus"",
+    ""dopaminergic midbrain"",
+    ""motor output"",
+    ""skill learning""
+  ]
+}","{
+  ""tags"": [
+    ""songbird brain"",
+    ""subthalamic nucleus"",
+    ""dopaminergic midbrain"",
+    ""motor output"",
+    ""skill learning""
+  ]
+}"
+371,8,"{
+  ""tags"": [
+    ""Neuro-Economic Theory"",
+    ""Synaptic Plasticity"",
+    ""Energy-Intensive Learning"",
+    ""Dopaminergic Control""
+  ]
+}","{
+  ""tags"": [
+    ""Neuro-Economic Theory"",
+    ""Synaptic Plasticity"",
+    ""Energy-Intensive Learning"",
+    ""Dopaminergic Control""
+  ]
+}"
+372,8,"{
+  ""tags"": [
+    ""Sleep Quality"",
+    ""Cortisol Reactivity"",
+    ""Risk/ Reward Decision Making"",
+    ""Suicide Risk""
+  ]
+}","{
+  ""tags"": [
+    ""Sleep Quality"",
+    ""Cortisol Reactivity"",
+    ""Risk/ Reward Decision Making"",
+    ""Suicide Risk""
+  ]
+}"
+373,8,"{
+  ""tags"": [
+    ""Model-based reinforcement learning"",
+    ""Concurrent schedules of reinforcement"",
+    ""Rats"",
+    ""Free-choice tasks"",
+    ""Value functions""
+  ]
+}","{
+  ""tags"": [
+    ""Model-based reinforcement learning"",
+    ""Concurrent schedules of reinforcement"",
+    ""Rats"",
+    ""Free-choice tasks"",
+    ""Value functions""
+  ]
+}"
+374,8,"{
+  ""tags"": [
+    ""Psychological Processes"",
+    ""Time-Varying Changes"",
+    ""Markov Chain Monte Carlo"",
+    ""Hidden Markov Models""
+  ]
+}","{
+  ""tags"": [
+    ""Psychological Processes"",
+    ""Time-Varying Changes"",
+    ""Markov Chain Monte Carlo"",
+    ""Hidden Markov Models""
+  ]
+}"
+375,8,"{
+  ""tags"": [
+    ""Bayesian regression"",
+    ""Cognitive models"",
+    ""Cognitive science"",
+    ""Covariate analysis"",
+    ""Bayes factors""
+  ]
+}","{
+  ""tags"": [
+    ""Bayesian regression"",
+    ""Cognitive models"",
+    ""Cognitive science"",
+    ""Covariate analysis"",
+    ""Bayes factors""
+  ]
+}"
+376,8,"{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""choice behavior"",
+    ""reward history"",
+    ""choice dependence""
+  ]
+}","{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""choice behavior"",
+    ""reward history"",
+    ""choice dependence""
+  ]
+}"
+377,8,"{
+  ""tags"": [
+    ""Testosterone"",
+    ""MAOA"",
+    ""Risk"",
+    ""Reward"",
+    ""DecisionMaking""
+  ]
+}","{
+  ""tags"": [
+    ""Testosterone"",
+    ""MAOA"",
+    ""Risk"",
+    ""Reward"",
+    ""DecisionMaking""
+  ]
+}"
+378,8,"{
+  ""tags"": [
+    ""cognitive control"",
+    ""conflict tasks"",
+    ""fMRI"",
+    ""neural substrates""
+  ]
+}","{
+  ""tags"": [
+    ""cognitive control"",
+    ""conflict tasks"",
+    ""fMRI"",
+    ""neural substrates""
+  ]
+}"
+379,8,"{
+  ""tags"": [
+    ""Strategy Exploration"",
+    ""Bias in Exploration"",
+    ""Optimization Strategies"",
+    ""Practice Effect on Exploration""
+  ]
+}","{
+  ""tags"": [
+    ""Strategy Exploration"",
+    ""Bias in Exploration"",
+    ""Optimization Strategies"",
+    ""Practice Effect on Exploration""
+  ]
+}"
+380,8,"{
+  ""tags"": [
+    ""human-algorithms"",
+    ""reinforcement-learning"",
+    ""uncertainty-bonuses"",
+    ""sampling-algorithms""
+  ]
+}","{
+  ""tags"": [
+    ""human-algorithms"",
+    ""reinforcement-learning"",
+    ""uncertainty-bonuses"",
+    ""sampling-algorithms""
+  ]
+}"
+381,8,"{
+  ""tags"": [
+    ""Gambling Disorder"",
+    ""Dopamine"",
+    ""Fronto-Striatal Circuits"",
+    ""Risky Decision-Making""
+  ]
+}","{
+  ""tags"": [
+    ""Gambling Disorder"",
+    ""Dopamine"",
+    ""Fronto-Striatal Circuits"",
+    ""Risky Decision-Making""
+  ]
+}"
+382,8,"{
+  ""tags"": [
+    ""Hypnosis"",
+    ""Reward Processing"",
+    ""Decision-Making"",
+    ""Neuroimaging"",
+    ""Autosuggestion""
+  ]
+}","{
+  ""tags"": [
+    ""Hypnosis"",
+    ""Reward Processing"",
+    ""Decision-Making"",
+    ""Neuroimaging"",
+    ""Autosuggestion""
+  ]
+}"
+383,8,"{
+  ""tags"": [
+    ""Hippocampal representations of foraging trajectories"",
+    ""Spatial context"",
+    ""Relational context"",
+    ""Hippocampal activity reactivation"",
+    ""Reward learning""
+  ]
+}","{
+  ""tags"": [
+    ""Hippocampal representations of foraging trajectories"",
+    ""Spatial context"",
+    ""Relational context"",
+    ""Hippocampal activity reactivation"",
+    ""Reward learning""
+  ]
+}"
+384,8,"{
+  ""tags"": [
+    ""Metacognitive Control"",
+    ""Decision-Making"",
+    ""Value-Based Decision-Making"",
+    ""Effort-Confidence Tradeoff""
+  ]
+}","{
+  ""tags"": [
+    ""Metacognitive Control"",
+    ""Decision-Making"",
+    ""Value-Based Decision-Making"",
+    ""Effort-Confidence Tradeoff""
+  ]
+}"
+385,8,"{
+  ""tags"": [
+    ""Hand-Choice"",
+    ""RecentHistory"",
+    ""ActionHistory"",
+    ""BiomechanicalCosts""
+  ]
+}","{
+  ""tags"": [
+    ""Hand-Choice"",
+    ""RecentHistory"",
+    ""ActionHistory"",
+    ""BiomechanicalCosts""
+  ]
+}"
+386,8,"{
+  ""tags"": [
+    ""Generalization"",
+    ""Reinforcement Learning"",
+    ""Task Structure"",
+    ""Compositional Generalization"",
+    ""Conjunctive Generalization""
+  ]
+}","{
+  ""tags"": [
+    ""Generalization"",
+    ""Reinforcement Learning"",
+    ""Task Structure"",
+    ""Compositional Generalization"",
+    ""Conjunctive Generalization""
+  ]
+}"
+387,8,"{
+  ""tags"": [
+    ""Prefrontal activation"",
+    ""Decision making"",
+    ""Emotional feedback"",
+    ""Iowa Gambling Task"",
+    ""Functional MRI""
+  ]
+}","{
+  ""tags"": [
+    ""Prefrontal activation"",
+    ""Decision making"",
+    ""Emotional feedback"",
+    ""Iowa Gambling Task"",
+    ""Functional MRI""
+  ]
+}"
+388,8,"{
+  ""tags"": [
+    ""Physiological Arousal"",
+    ""Reflective Exploration"",
+    ""Value Assessment"",
+    ""Cognitive Value""
+  ]
+}","{
+  ""tags"": [
+    ""Physiological Arousal"",
+    ""Reflective Exploration"",
+    ""Value Assessment"",
+    ""Cognitive Value""
+  ]
+}"
+389,8,"{
+  ""tags"": [
+    ""Information Seeking"",
+    ""Problem Solving"",
+    ""Bayesian Satisficing"",
+    ""Adaptation to Cost""
+  ]
+}","{
+  ""tags"": [
+    ""Information Seeking"",
+    ""Problem Solving"",
+    ""Bayesian Satisficing"",
+    ""Adaptation to Cost""
+  ]
+}"
+390,8,"{
+  ""tags"": [
+    ""Learning Adaptive Mental Behaviors"",
+    ""Mental vs Motor Behaviors"",
+    ""Credit Assignment"",
+    ""Retention and Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Learning Adaptive Mental Behaviors"",
+    ""Mental vs Motor Behaviors"",
+    ""Credit Assignment"",
+    ""Retention and Learning""
+  ]
+}"
+391,8,"{
+  ""tags"": [
+    ""Emotional Regulation"",
+    ""Neural Processing"",
+    ""Value-Based Decision-Making"",
+    ""Incentive Regulation""
+  ]
+}","{
+  ""tags"": [
+    ""Emotional Regulation"",
+    ""Neural Processing"",
+    ""Value-Based Decision-Making"",
+    ""Incentive Regulation""
+  ]
+}"
+392,8,"{
+  ""tags"": [
+    ""Motor Response Correction"",
+    ""Reward-Based Decision-Making"",
+    ""ACC Functions"",
+    ""Prefrontal Cortex"",
+    ""Error Correction Mechanisms""
+  ]
+}","{
+  ""tags"": [
+    ""Motor Response Correction"",
+    ""Reward-Based Decision-Making"",
+    ""ACC Functions"",
+    ""Prefrontal Cortex"",
+    ""Error Correction Mechanisms""
+  ]
+}"
+393,8,"{
+  ""tags"": [
+    ""Reward-Based Learning"",
+    ""Recognition Memory"",
+    ""Age Differences"",
+    ""ERP Correlates""
+  ]
+}","{
+  ""tags"": [
+    ""Reward-Based Learning"",
+    ""Recognition Memory"",
+    ""Age Differences"",
+    ""ERP Correlates""
+  ]
+}"
+394,8,"{
+  ""tags"": [
+    ""Associative Reinforcement Learning"",
+    ""Machine Learning"",
+    ""Behavioral Experiment"",
+    ""Simulation Studies""
+  ]
+}","{
+  ""tags"": [
+    ""Associative Reinforcement Learning"",
+    ""Machine Learning"",
+    ""Behavioral Experiment"",
+    ""Simulation Studies""
+  ]
+}"
+395,8,"{
+  ""tags"": [
+    ""pain"",
+    ""behavioral"",
+    ""exploitation"",
+    ""exploitation dilemma""
+  ]
+}","{
+  ""tags"": [
+    ""pain"",
+    ""behavioral"",
+    ""exploitation"",
+    ""exploitation dilemma""
+  ]
+}"
+396,8,"{
+  ""tags"": [
+    ""Problem Gambling"",
+    ""Neural Evidence"",
+    ""Altered Learning"",
+    ""Fast vs Slow Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Problem Gambling"",
+    ""Neural Evidence"",
+    ""Altered Learning"",
+    ""Fast vs Slow Learning""
+  ]
+}"
+397,8,"{
+  ""tags"": [
+    ""Decision-making under uncertainty in OCD"",
+    ""Obsessive-compulsive disorder"",
+    ""Behavioral economic theory"",
+    ""Uncertainty intolerance in OCD""
+  ]
+}","{
+  ""tags"": [
+    ""Decision-making under uncertainty in OCD"",
+    ""Obsessive-compulsive disorder"",
+    ""Behavioral economic theory"",
+    ""Uncertainty intolerance in OCD""
+  ]
+}"
+398,8,"{
+  ""tags"": [
+    ""animal models of human brain function"",
+    ""indices of comparative cognition"",
+    ""cognitive capacities of animals"",
+    ""neurodegenerative disease models""
+  ]
+}","{
+  ""tags"": [
+    ""animal models of human brain function"",
+    ""indices of comparative cognition"",
+    ""cognitive capacities of animals"",
+    ""neurodegenerative disease models""
+  ]
+}"
+399,8,"{
+  ""tags"": [
+    ""Oculomotor learning"",
+    ""Basal ganglia"",
+    ""Reinforcement learning"",
+    ""Contextual learning"",
+    ""Motor learning""
+  ]
+}","{
+  ""tags"": [
+    ""Oculomotor learning"",
+    ""Basal ganglia"",
+    ""Reinforcement learning"",
+    ""Contextual learning"",
+    ""Motor learning""
+  ]
+}"
+400,9,"{
+  ""tags"": [
+    ""Schizophrenia"",
+    ""Reward Sensitivity"",
+    ""Decision-Making"",
+    ""Working Memory""
+  ]
+}","{
+  ""tags"": [
+    ""Schizophrenia"",
+    ""Reward Sensitivity"",
+    ""Decision-Making"",
+    ""Working Memory""
+  ]
+}"
+401,9,"{
+  ""tags"": [
+    ""reward prediction error"",
+    ""dopamine function"",
+    ""phasic dopamine release"",
+    ""reward processing"",
+    ""frontal lobe activation""
+  ]
+}","{
+  ""tags"": [
+    ""reward prediction error"",
+    ""dopamine function"",
+    ""phasic dopamine release"",
+    ""reward processing"",
+    ""frontal lobe activation""
+  ]
+}"
+402,9,"{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Neuroscience"",
+    ""Positive Valence System"",
+    ""Clinical Psychology""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Neuroscience"",
+    ""Positive Valence System"",
+    ""Clinical Psychology""
+  ]
+}"
+403,9,"{
+  ""tags"": [
+    ""reward prediction error"",
+    ""reinforcement learning"",
+    ""dopamine system"",
+    ""schizophrenia"",
+    ""reward sensitivities""
+  ]
+}","{
+  ""tags"": [
+    ""reward prediction error"",
+    ""reinforcement learning"",
+    ""dopamine system"",
+    ""schizophrenia"",
+    ""reward sensitivities""
+  ]
+}"
+404,9,"{
+  ""tags"": [
+    ""aberrant salience"",
+    ""psychotic symptoms"",
+    ""construct validity"",
+    ""schizotypy"",
+    ""salience attribution""
+  ]
+}","{
+  ""tags"": [
+    ""aberrant salience"",
+    ""psychotic symptoms"",
+    ""construct validity"",
+    ""schizotypy"",
+    ""salience attribution""
+  ]
+}"
+405,9,"{
+  ""tags"": [
+    ""Neurocomputational"",
+    ""ContingencyLearning"",
+    ""NMDARBlockade"",
+    ""PsychosisPathology""
+  ]
+}","{
+  ""tags"": [
+    ""Neurocomputational"",
+    ""ContingencyLearning"",
+    ""NMDARBlockade"",
+    ""PsychosisPathology""
+  ]
+}"
+406,9,"{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Psychosis"",
+    ""Deficits"",
+    ""Molecular Influence"",
+    ""Risk of Schizophrenia""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement Learning"",
+    ""Psychosis"",
+    ""Deficits"",
+    ""Molecular Influence"",
+    ""Risk of Schizophrenia""
+  ]
+}"
+407,9,"{
+  ""tags"": [
+    ""Psychotic Illness"",
+    ""Directed Exploration"",
+    ""Random Exploration"",
+    ""Schizophrenia"",
+    ""Decision-Making"",
+    ""Gambling Task"",
+    ""Health Volunteers"",
+    ""Intellectual Function"",
+    ""Positive Symptoms""
+  ]
+}","{
+  ""tags"": [
+    ""Psychotic Illness"",
+    ""Directed Exploration"",
+    ""Random Exploration"",
+    ""Schizophrenia"",
+    ""Decision-Making"",
+    ""Gambling Task"",
+    ""Health Volunteers"",
+    ""Intellectual Function"",
+    ""Positive Symptoms""
+  ]
+}"
+408,9,"{
+  ""tags"": [
+    ""Autism Spectrum Disorders"",
+    ""Probabilistic Reinforcement Learning"",
+    ""Bayesian State-Space Learning"",
+    ""ASD Learning"",
+    ""Neurobiological Models""
+  ]
+}","{
+  ""tags"": [
+    ""Autism Spectrum Disorders"",
+    ""Probabilistic Reinforcement Learning"",
+    ""Bayesian State-Space Learning"",
+    ""ASD Learning"",
+    ""Neurobiological Models""
+  ]
+}"
+409,9,"{
+  ""tags"": [
+    ""Reversal Learning"",
+    ""Contingency-Dependent"",
+    ""Loss Response"",
+    ""Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Reversal Learning"",
+    ""Contingency-Dependent"",
+    ""Loss Response"",
+    ""Reinforcement Learning""
+  ]
+}"
+410,9,"{
+  ""tags"": [
+    ""Striatal Dopaminergic Modulation"",
+    ""Reward Learning"",
+    ""Psychotic Disorder"",
+    ""DA Neurotransmission""
+  ]
+}","{
+  ""tags"": [
+    ""Striatal Dopaminergic Modulation"",
+    ""Reward Learning"",
+    ""Psychotic Disorder"",
+    ""DA Neurotransmission""
+  ]
+}"
+411,9,"{
+  ""tags"": [
+    ""Daily-life stress"",
+    ""Ventral striatal dopaminergic modulation"",
+    ""Reward processing"",
+    ""Psychosis risk""
+  ]
+}","{
+  ""tags"": [
+    ""Daily-life stress"",
+    ""Ventral striatal dopaminergic modulation"",
+    ""Reward processing"",
+    ""Psychosis risk""
+  ]
+}"
+412,9,"{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Neuroimaging"",
+    ""Behavioral Neuroimaging"",
+    ""Functional Near-Infrared Spectroscopy""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Processing"",
+    ""Neuroimaging"",
+    ""Behavioral Neuroimaging"",
+    ""Functional Near-Infrared Spectroscopy""
+  ]
+}"
+413,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""working memory"",
+    ""reinforcement learning"",
+    ""prefrontal cortex""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""working memory"",
+    ""reinforcement learning"",
+    ""prefrontal cortex""
+  ]
+}"
+414,9,"{
+  ""tags"": [
+    ""Positive Symptoms of Psychosis"",
+    ""Cognitive Control"",
+    ""Reward Learning"",
+    ""Neural Network"",
+    ""Emotional Bias""
+  ]
+}","{
+  ""tags"": [
+    ""Positive Symptoms of Psychosis"",
+    ""Cognitive Control"",
+    ""Reward Learning"",
+    ""Neural Network"",
+    ""Emotional Bias""
+  ]
+}"
+415,9,"{
+  ""tags"": [
+    ""Positive Feedback Sensitivity"",
+    ""Negative Feedback Sensitivity"",
+    ""Reward Processing"",
+    ""Computational Modeling"",
+    ""WCST Parameters""
+  ]
+}","{
+  ""tags"": [
+    ""Positive Feedback Sensitivity"",
+    ""Negative Feedback Sensitivity"",
+    ""Reward Processing"",
+    ""Computational Modeling"",
+    ""WCST Parameters""
+  ]
+}"
+416,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""aberrant salience"",
+    ""reward processing"",
+    ""salience attribution test""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""aberrant salience"",
+    ""reward processing"",
+    ""salience attribution test""
+  ]
+}"
+417,9,"{
+  ""tags"": [
+    ""Neuropsychology of Reward Learning"",
+    ""Schizophrenia"",
+    ""Iowa Gambling Test"",
+    ""Reward Learning"",
+    ""Neuropsychological Functioning""
+  ]
+}","{
+  ""tags"": [
+    ""Neuropsychology of Reward Learning"",
+    ""Schizophrenia"",
+    ""Iowa Gambling Test"",
+    ""Reward Learning"",
+    ""Neuropsychological Functioning""
+  ]
+}"
+418,9,"{
+  ""tags"": [
+    ""Working Memory"",
+    ""Reinforcement Learning"",
+    ""Value-Based Choice"",
+    ""Schizophrenia"",
+    ""Effort"",
+    ""Neural Substrates"",
+    ""Computational Modeling""
+  ]
+}","{
+  ""tags"": [
+    ""Working Memory"",
+    ""Reinforcement Learning"",
+    ""Value-Based Choice"",
+    ""Schizophrenia"",
+    ""Effort"",
+    ""Neural Substrates"",
+    ""Computational Modeling""
+  ]
+}"
+419,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neurobiological"",
+    ""attractor dynamics"",
+    ""belief updating"",
+    ""neural network""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neurobiological"",
+    ""attractor dynamics"",
+    ""belief updating"",
+    ""neural network""
+  ]
+}"
+420,9,"{
+  ""tags"": [
+    ""Aberrant Reward Processing"",
+    ""Schizophrenia"",
+    ""Reward Deficits"",
+    ""Social Reward""
+  ]
+}","{
+  ""tags"": [
+    ""Aberrant Reward Processing"",
+    ""Schizophrenia"",
+    ""Reward Deficits"",
+    ""Social Reward""
+  ]
+}"
+421,9,"{
+  ""tags"": [
+    ""Corticostriatal control"",
+    ""Goal-directed action"",
+    ""Schizophrenia"",
+    ""Neuropsychology""
+  ]
+}","{
+  ""tags"": [
+    ""Corticostriatal control"",
+    ""Goal-directed action"",
+    ""Schizophrenia"",
+    ""Neuropsychology""
+  ]
+}"
+422,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""motivational deficits"",
+    ""negative symptoms"",
+    ""experiential subdomain""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""motivational deficits"",
+    ""negative symptoms"",
+    ""experiential subdomain""
+  ]
+}"
+423,9,"{
+  ""tags"": [
+    ""reward system dysfunction"",
+    ""reward prediction errors"",
+    ""reinforcement learning"",
+    ""ventral striatum"",
+    ""dorsal anterior cingulate cortex"",
+    ""ventromedial prefrontal cortex"",
+    ""reward circuitry"",
+    ""psychosis"",
+    ""clinical high-risk"",
+    ""event-related fMRI"",
+    ""behavioral neuroimaging"",
+    ""functional neuroimaging"",
+    ""reward processing"",
+    ""outcome signaling"",
+    ""prediction error"",
+    ""ventral striatum"",
+    ""dorsal anterior cingulate cortex"",
+    ""ventromedial prefrontal cortex""
+  ]","{
+  ""tags"": [
+    ""reward system dysfunction"",
+    ""reward prediction errors"",
+    ""reinforcement learning"",
+    ""ventral striatum"",
+    ""dorsal anterior cingulate cortex"",
+    ""ventromedial prefrontal cortex"",
+    ""reward circuitry"",
+    ""psychosis"",
+    ""clinical high-risk"",
+    ""event-related fMRI"",
+    ""behavioral neuroimaging"",
+    ""functional neuroimaging"",
+    ""reward processing"",
+    ""outcome signaling"",
+    ""prediction error"",
+    ""ventral striatum"",
+    ""dorsal anterior cingulate cortex"",
+    ""ventromedial prefrontal cortex""
+  ]"" ] }"
+424,9,"{
+  ""tags"": [
+    ""Reinforcement learning abnormalities"",
+    ""Schizophrenia"",
+    ""Value representation"",
+    ""Probabilistic reinforcement learning""
+  ]
+}","{
+  ""tags"": [
+    ""Reinforcement learning abnormalities"",
+    ""Schizophrenia"",
+    ""Value representation"",
+    ""Probabilistic reinforcement learning""
+  ]
+}"
+425,9,"{
+  ""tags"": [
+    ""Reward and Punishment Learning"",
+    ""Schizophrenia and Bipolar Disorder"",
+    ""Probabilistic vs Deterministic Learning"",
+    ""Psychotic Bipolar Disorder"",
+    ""Neuroplasticity and Psychiatric Disorders""
+  ]
+}","{
+  ""tags"": [
+    ""Reward and Punishment Learning"",
+    ""Schizophrenia and Bipolar Disorder"",
+    ""Probabilistic vs Deterministic Learning"",
+    ""Psychotic Bipolar Disorder"",
+    ""Neuroplasticity and Psychiatric Disorders""
+  ]
+}"
+426,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neural"",
+    ""reward"",
+    ""dopamine"",
+    ""neuroplasticity""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neural"",
+    ""reward"",
+    ""dopamine"",
+    ""neuroplasticity""
+  ]
+}"
+427,9,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Schizophrenia"",
+    ""Bipolar Disorder"",
+    ""Psychosis"",
+    ""Diagnostic Boundaries"",
+    ""Computational Modeling"",
+    ""Neurobiological Markers"",
+    ""Genetic Markers""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Schizophrenia"",
+    ""Bipolar Disorder"",
+    ""Psychosis"",
+    ""Diagnostic Boundaries"",
+    ""Computational Modeling"",
+    ""Neurobiological Markers"",
+    ""Genetic Markers""
+  ]
+}"
+428,9,"{
+  ""tags"": [
+    ""Trauma and Stress"",
+    ""Animal Models"",
+    ""Cognitive Function"",
+    ""Behavioral Neuroscience""
+  ]
+}","{
+  ""tags"": [
+    ""Trauma and Stress"",
+    ""Animal Models"",
+    ""Cognitive Function"",
+    ""Behavioral Neuroscience""
+  ]
+}"
+429,9,"{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""schizophrenia"",
+    ""reward learning"",
+    ""negative feedback"",
+    ""task-based learning""
+  ]
+}","{
+  ""tags"": [
+    ""reinforcement learning"",
+    ""schizophrenia"",
+    ""reward learning"",
+    ""negative feedback"",
+    ""task-based learning""
+  ]
+}"
+430,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""conflict-induced"",
+    ""effort-based"",
+    ""prediction_error"",
+    ""reinforcement_learning""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""conflict-induced"",
+    ""effort-based"",
+    ""prediction_error"",
+    ""reinforcement_learning""
+  ]
+}"
+431,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""response monitoring"",
+    ""dorsal anterior cingulate cortex"",
+    ""dACC"",
+    ""MTHFR variant"",
+    ""dACC white matter"",
+    ""dACC microstructure"",
+    ""dACC function"",
+    ""dACC activation""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""response monitoring"",
+    ""dorsal anterior cingulate cortex"",
+    ""dACC"",
+    ""MTHFR variant"",
+    ""dACC white matter"",
+    ""dACC microstructure"",
+    ""dACC function"",
+    ""dACC activation""
+  ]
+}"
+432,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neuroimaging"",
+    ""reinforcement"",
+    ""goal-directed"",
+    ""uncertainty-driven""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neuroimaging"",
+    ""reinforcement"",
+    ""goal-directed"",
+    ""uncertainty-driven""
+  ]
+}"
+433,9,"{
+  ""tags"": [
+    ""Effortful motivation"",
+    ""Neurocognition"",
+    ""Schizophrenia"",
+    ""Reward valuation"",
+    ""Cognitive impairments""
+  ]
+}","{
+  ""tags"": [
+    ""Effortful motivation"",
+    ""Neurocognition"",
+    ""Schizophrenia"",
+    ""Reward valuation"",
+    ""Cognitive impairments""
+  ]
+}"
+434,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reward-related"",
+    ""trial-and-error"",
+    ""fMRI"",
+    ""neural"",
+    ""reinforcement"",
+    ""learning"",
+    ""healthy"",
+    ""predictability"",
+    ""activation"",
+    ""fronto-parietal"",
+    ""cognitive"",
+    ""neuroplasticity""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reward-related"",
+    ""trial-and-error"",
+    ""fMRI"",
+    ""neural"",
+    ""reinforcement"",
+    ""learning"",
+    ""healthy"",
+    ""predictability"",
+    ""activation"",
+    ""fronto-parietal"",
+    ""cognitive"",
+    ""neuroplasticity""
+  ]
+}"
+435,9,"{
+  ""tags"": [
+    ""Schizophrenia Decision-Making"",
+    ""Risk-Reward Learning"",
+    ""Balloon Analogue Risk Task"",
+    ""Cognitive Ability"",
+    ""Inflations per Trial""
+  ]
+}","{
+  ""tags"": [
+    ""Schizophrenia Decision-Making"",
+    ""Risk-Reward Learning"",
+    ""Balloon Analogue Risk Task"",
+    ""Cognitive Ability"",
+    ""Inflations per Trial""
+  ]
+}"
+436,9,"{
+  ""tags"": [
+    ""Schizophrenia"",
+    ""Reward Anticipation"",
+    ""Neuroimaging"",
+    ""Daily Functioning"",
+    ""Reward Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Schizophrenia"",
+    ""Reward Anticipation"",
+    ""Neuroimaging"",
+    ""Daily Functioning"",
+    ""Reward Learning""
+  ]
+}"
+437,9,"{
+  ""tags"": [
+    ""reward impairments"",
+    ""schizophrenia spectrum disorders"",
+    ""anhedonia"",
+    ""amotivation"",
+    ""neuroimaging"",
+    ""reward processing"",
+    ""brain dysfunction"",
+    ""reward components"",
+    ""whole-brain mapping"",
+    ""systematic review"",
+    ""meta-analysis"",
+    ""neuroimaging studies"",
+    ""reward-related studies"",
+    ""striatum"",
+    ""orbitofrontal cortex"",
+    ""cingulate cortex"",
+    ""cerebellar areas"",
+    ""decreased activation"",
+    ""decreased functional activation"",
+    ""decreased reward anticipation"",
+    ""decreased reward consumption"",
+    ""decreased reward","{
+  ""tags"": [
+    ""reward impairments"",
+    ""schizophrenia spectrum disorders"",
+    ""anhedonia"",
+    ""amotivation"",
+    ""neuroimaging"",
+    ""reward processing"",
+    ""brain dysfunction"",
+    ""reward components"",
+    ""whole-brain mapping"",
+    ""systematic review"",
+    ""meta-analysis"",
+    ""neuroimaging studies"",
+    ""reward-related studies"",
+    ""striatum"",
+    ""orbitofrontal cortex"",
+    ""cingulate cortex"",
+    ""cerebellar areas"",
+    ""decreased activation"",
+    ""decreased functional activation"",
+    ""decreased reward anticipation"",
+    ""decreased reward consumption"",
+    ""decreased reward"" ] }"
+438,9,"{
+  ""tags"": [
+    ""Cognition and Control"",
+    ""Schizophrenia"",
+    ""Dopamine"",
+    ""Prefrontal Cortex""
+  ]
+}","{
+  ""tags"": [
+    ""Cognition and Control"",
+    ""Schizophrenia"",
+    ""Dopamine"",
+    ""Prefrontal Cortex""
+  ]
+}"
+439,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reward"",
+    ""dopaminergic"",
+    ""neural"",
+    ""reward"",
+    ""anticipation"",
+    ""cingulo-striatal"",
+    ""amotivation"",
+    ""reward"",
+    ""dopamine"",
+    ""neuroplasticity"",
+    ""functional"",
+    ""MRI"",
+    ""reinforcement"",
+    ""learning"",
+    ""task"",
+    ""variable"",
+    ""contingency"",
+    ""reversals"",
+    ""social""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reward"",
+    ""dopaminergic"",
+    ""neural"",
+    ""reward"",
+    ""anticipation"",
+    ""cingulo-striatal"",
+    ""amotivation"",
+    ""reward"",
+    ""dopamine"",
+    ""neuroplasticity"",
+    ""functional"",
+    ""MRI"",
+    ""reinforcement"",
+    ""learning"",
+    ""task"",
+    ""variable"",
+    ""contingency"",
+    ""reversals"",
+    ""social""
+  ]
+}"
+440,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reinforcement"",
+    ""reward"",
+    ""learning"",
+    ""motivation""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""reinforcement"",
+    ""reward"",
+    ""learning"",
+    ""motivation""
+  ]
+}"
+441,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neural"",
+    ""dysconnectivity"",
+    ""white"",
+    ""mri"",
+    ""tract"",
+    ""dMRI"",
+    ""diffusion"",
+    ""tractography"",
+    ""anisotropy"",
+    ""tract dispersion"",
+    ""fractional"",
+    ""anisotropy"",
+    ""behavioral"",
+    ""reward"",
+    ""learning"",
+    ""dopamine"",
+    ""midbrain"",
+    ""nigrostriatal"",
+    ""tract""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""neural"",
+    ""dysconnectivity"",
+    ""white"",
+    ""mri"",
+    ""tract"",
+    ""dMRI"",
+    ""diffusion"",
+    ""tractography"",
+    ""anisotropy"",
+    ""tract dispersion"",
+    ""fractional"",
+    ""anisotropy"",
+    ""behavioral"",
+    ""reward"",
+    ""learning"",
+    ""dopamine"",
+    ""midbrain"",
+    ""nigrostriatal"",
+    ""tract""
+  ]
+}"
+442,9,"{
+  ""tags"": [
+    ""schizophrenia"",
+    ""cognitive"",
+    ""reinforcement"",
+    ""neuroscience"",
+    ""antipsychotics""
+  ]
+}","{
+  ""tags"": [
+    ""schizophrenia"",
+    ""cognitive"",
+    ""reinforcement"",
+    ""neuroscience"",
+    ""antipsychotics""
+  ]
+}"
+443,9,"{
+  ""tags"": [
+    ""Parkinson's disease psychosis"",
+    ""reward processing"",
+    ""neurocognition"",
+    ""trans-diagnostic""
+  ]
+}","{
+  ""tags"": [
+    ""Parkinson's disease psychosis"",
+    ""reward processing"",
+    ""neurocognition"",
+    ""trans-diagnostic""
+  ]
+}"
+444,9,"{
+  ""tags"": [
+    ""Schizophrenia Spectrum Disorders"",
+    ""Reward Learning"",
+    ""Familial Vulnerability"",
+    ""Social Reward Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Schizophrenia Spectrum Disorders"",
+    ""Reward Learning"",
+    ""Familial Vulnerability"",
+    ""Social Reward Learning""
+  ]
+}"
+445,9,"{
+  ""tags"": [
+    ""Neural correlates of prediction error"",
+    ""Schizophrenia"",
+    ""Prediction error"",
+    ""Reward prediction error"",
+    ""Dopamine signaling""
+  ]
+}","{
+  ""tags"": [
+    ""Neural correlates of prediction error"",
+    ""Schizophrenia"",
+    ""Prediction error"",
+    ""Reward prediction error"",
+    ""Dopamine signaling""
+  ]
+}"
+446,9,"{
+  ""tags"": [
+    ""Abnormal Salience Processing"",
+    ""Neural Activity"",
+    ""Salience Modulation"",
+    ""Neuroimaging Studies""
+  ]
+}","{
+  ""tags"": [
+    ""Abnormal Salience Processing"",
+    ""Neural Activity"",
+    ""Salience Modulation"",
+    ""Neuroimaging Studies""
+  ]
+}"
+447,9,"{
+  ""tags"": [
+    ""Motivation"",
+    ""Schizophrenia"",
+    ""Intrinsic Motivation"",
+    ""Extrinsic Motivation""
+  ]
+}","{
+  ""tags"": [
+    ""Motivation"",
+    ""Schizophrenia"",
+    ""Intrinsic Motivation"",
+    ""Extrinsic Motivation""
+  ]
+}"
+448,9,"{
+  ""tags"": [
+    ""Testosterone and reward prediction-errors"",
+    ""Sex hormones impact reward processing"",
+    ""Functional magnetic resonance imaging"",
+    ""Hormone assays"",
+    ""Androgen receptors in schizophrenia""
+  ]
+}","{
+  ""tags"": [
+    ""Testosterone and reward prediction-errors"",
+    ""Sex hormones impact reward processing"",
+    ""Functional magnetic resonance imaging"",
+    ""Hormone assays"",
+    ""Androgen receptors in schizophrenia""
+  ]
+}"
+449,9,"{
+  ""tags"": [
+    ""Effort-Cost Decision-Making"",
+    ""Psychosis Spectrum"",
+    ""Working Memory"",
+    ""Reward Learning"",
+    ""Affective Psychosis""
+  ]
+}","{
+  ""tags"": [
+    ""Effort-Cost Decision-Making"",
+    ""Psychosis Spectrum"",
+    ""Working Memory"",
+    ""Reward Learning"",
+    ""Affective Psychosis""
+  ]
+}"
+450,10,"{
+  ""tags"": [
+    ""Predation Risk"",
+    ""Neural Network"",
+    ""Foraging Behavior"",
+    ""Cognitive Emotions""
+  ]
+}","{
+  ""tags"": [
+    ""Predation Risk"",
+    ""Neural Network"",
+    ""Foraging Behavior"",
+    ""Cognitive Emotions""
+  ]
+}"
+451,10,"{
+  ""tags"": [
+    ""delay discounting"",
+    ""gender"",
+    ""impulsive decision making"",
+    ""social networking sites""
+  ]
+}","{
+  ""tags"": [
+    ""delay discounting"",
+    ""gender"",
+    ""impulsive decision making"",
+    ""social networking sites""
+  ]
+}"
+452,10,"{
+  ""tags"": [
+    ""Choice"",
+    ""Time"",
+    ""Food"",
+    ""Probabilities"",
+    ""Cyclical""
+  ]
+}","{
+  ""tags"": [
+    ""Choice"",
+    ""Time"",
+    ""Food"",
+    ""Probabilities"",
+    ""Cyclical""
+  ]
+}"
+453,10,"{
+  ""tags"": [
+    ""self-control"",
+    ""future planning"",
+    ""great ape cognition"",
+    ""planning for the future""
+  ]
+}","{
+  ""tags"": [
+    ""self-control"",
+    ""future planning"",
+    ""great ape cognition"",
+    ""planning for the future""
+  ]
+}"
+454,10,"{
+  ""tags"": [
+    ""choice history effects"",
+    ""natural contingencies"",
+    ""reward harvesting efficiency"",
+    ""optimal agents"",
+    ""environmental volatility""
+  ]
+}","{
+  ""tags"": [
+    ""choice history effects"",
+    ""natural contingencies"",
+    ""reward harvesting efficiency"",
+    ""optimal agents"",
+    ""environmental volatility""
+  ]
+}"
+455,10,"{
+  ""tags"": [
+    ""probabilistic-choice"",
+    ""rats"",
+    ""reward-value"",
+    ""sequential-choice""
+  ]
+}","{
+  ""tags"": [
+    ""probabilistic-choice"",
+    ""rats"",
+    ""reward-value"",
+    ""sequential-choice""
+  ]
+}"
+456,10,"{
+  ""tags"": [
+    ""delay discounting"",
+    ""metabolic hypothesis"",
+    ""self-control"",
+    ""foraging behavior""
+  ]
+}","{
+  ""tags"": [
+    ""delay discounting"",
+    ""metabolic hypothesis"",
+    ""self-control"",
+    ""foraging behavior""
+  ]
+}"
+457,10,"{
+  ""tags"": [
+    ""Human Risky Choice"",
+    ""Delay Sensitivity"",
+    ""Reinforcer Type"",
+    ""Nonhuman Subjects"",
+    ""Variable-Time Schedules""
+  ]
+}","{
+  ""tags"": [
+    ""Human Risky Choice"",
+    ""Delay Sensitivity"",
+    ""Reinforcer Type"",
+    ""Nonhuman Subjects"",
+    ""Variable-Time Schedules""
+  ]
+}"
+458,10,"{
+  ""tags"": [
+    ""Adaptive Intertemporal Preferences"",
+    ""Foraging Style Decision Making"",
+    ""Reward-Based Choice"",
+    ""Exponential Discounting""
+  ]
+}","{
+  ""tags"": [
+    ""Adaptive Intertemporal Preferences"",
+    ""Foraging Style Decision Making"",
+    ""Reward-Based Choice"",
+    ""Exponential Discounting""
+  ]
+}"
+459,10,"{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Media Multitasking"",
+    ""Classroom Attitude"",
+    ""Behavioral Economics""
+  ]
+}","{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Media Multitasking"",
+    ""Classroom Attitude"",
+    ""Behavioral Economics""
+  ]
+}"
+460,10,"{
+  ""tags"": [
+    ""Risk Aversion"",
+    ""Delay Discounting"",
+    ""Probability Discounting"",
+    ""Hyperbolic Function""
+  ]
+}","{
+  ""tags"": [
+    ""Risk Aversion"",
+    ""Delay Discounting"",
+    ""Probability Discounting"",
+    ""Hyperbolic Function""
+  ]
+}"
+461,10,"{
+  ""tags"": [
+    ""delay discounting"",
+    ""reinforcer magnitude"",
+    ""probability discounting"",
+    ""computer game task""
+  ]
+}","{
+  ""tags"": [
+    ""delay discounting"",
+    ""reinforcer magnitude"",
+    ""probability discounting"",
+    ""computer game task""
+  ]
+}"
+462,10,"{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Pathological Gamblers"",
+    ""Choice Task"",
+    ""Delayed Rewards""
+  ]
+}","{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Pathological Gamblers"",
+    ""Choice Task"",
+    ""Delayed Rewards""
+  ]
+}"
+463,10,"{
+  ""tags"": [
+    ""Delayed Reward Learning"",
+    ""Disproof of Traditional Theory"",
+    ""Secondary Rewards"",
+    ""Temporal Gap"",
+    ""Psychological Theory""
+  ]
+}","{
+  ""tags"": [
+    ""Delayed Reward Learning"",
+    ""Disproof of Traditional Theory"",
+    ""Secondary Rewards"",
+    ""Temporal Gap"",
+    ""Psychological Theory""
+  ]
+}"
+464,10,"{
+  ""tags"": [
+    ""Starling Impulsivity"",
+    ""Energetic State Development"",
+    ""Telomere Shortening"",
+    ""Behavioral Choice""
+  ]
+}","{
+  ""tags"": [
+    ""Starling Impulsivity"",
+    ""Energetic State Development"",
+    ""Telomere Shortening"",
+    ""Behavioral Choice""
+  ]
+}"
+465,10,"{
+  ""tags"": [
+    ""delayed rewards"",
+    ""animal preference"",
+    ""information signaling"",
+    ""instrumental advantage""
+  ]
+}","{
+  ""tags"": [
+    ""delayed rewards"",
+    ""animal preference"",
+    ""information signaling"",
+    ""instrumental advantage""
+  ]
+}"
+466,10,"{
+  ""tags"": [
+    ""Low-serotonin levels increase delayed reward discounting in humans"",
+    ""Serotonin modulation of delayed reward discounting"",
+    ""Corticobasal ganglia circuits and serotonin"",
+    ""Impulse control and serotonin""
+  ]
+}","{
+  ""tags"": [
+    ""Low-serotonin levels increase delayed reward discounting in humans"",
+    ""Serotonin modulation of delayed reward discounting"",
+    ""Corticobasal ganglia circuits and serotonin"",
+    ""Impulse control and serotonin""
+  ]
+}"
+467,10,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Decision-Making"",
+    ""Animal Choice"",
+    ""Neuroscience"",
+    ""Sequential Choice Model""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Decision-Making"",
+    ""Animal Choice"",
+    ""Neuroscience"",
+    ""Sequential Choice Model""
+  ]
+}"
+468,10,"{
+  ""tags"": [
+    ""Delayed Rewards"",
+    ""Present Value"",
+    ""Hyperbolic Discounting"",
+    ""Choice Theory""
+  ]
+}","{
+  ""tags"": [
+    ""Delayed Rewards"",
+    ""Present Value"",
+    ""Hyperbolic Discounting"",
+    ""Choice Theory""
+  ]
+}"
+469,10,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Law of Effect"",
+    ""Exponential Decay"",
+    ""Classical Conditioning""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Law of Effect"",
+    ""Exponential Decay"",
+    ""Classical Conditioning""
+  ]
+}"
+470,10,"{
+  ""tags"": [
+    ""Conditioned Reinforcement"",
+    ""Pigeons"",
+    ""Behavioral Reinforcement"",
+    ""Uncertain Outcomes""
+  ]
+}","{
+  ""tags"": [
+    ""Conditioned Reinforcement"",
+    ""Pigeons"",
+    ""Behavioral Reinforcement"",
+    ""Uncertain Outcomes""
+  ]
+}"
+471,10,"{
+  ""tags"": [
+    ""Pigeon behavior"",
+    ""Variable-ratio schedules"",
+    ""Fixed-ratio schedules"",
+    ""Hyperbolic model""
+  ]
+}","{
+  ""tags"": [
+    ""Pigeon behavior"",
+    ""Variable-ratio schedules"",
+    ""Fixed-ratio schedules"",
+    ""Hyperbolic model""
+  ]
+}"
+472,10,"{
+  ""tags"": [
+    ""suboptimal-choice-task"",
+    ""value-choice"",
+    ""response-latency"",
+    ""sequential-choice-model""
+  ]
+}","{
+  ""tags"": [
+    ""suboptimal-choice-task"",
+    ""value-choice"",
+    ""response-latency"",
+    ""sequential-choice-model""
+  ]
+}"
+473,10,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Pigeon Choice"",
+    ""Rats and Choice"",
+    ""Sequential Choice Model""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Pigeon Choice"",
+    ""Rats and Choice"",
+    ""Sequential Choice Model""
+  ]
+}"
+474,10,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Starling Behavior"",
+    ""Diet Choice Models"",
+    ""Sequential Choice Models""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Starling Behavior"",
+    ""Diet Choice Models"",
+    ""Sequential Choice Models""
+  ]
+}"
+475,10,"{
+  ""tags"": [
+    ""Discrete-trial probability learning"",
+    ""Rats: behavior"",
+    ""Local contingencies of reinforcement"",
+    ""Noncorrection procedure""
+  ]
+}","{
+  ""tags"": [
+    ""Discrete-trial probability learning"",
+    ""Rats: behavior"",
+    ""Local contingencies of reinforcement"",
+    ""Noncorrection procedure""
+  ]
+}"
+476,10,"{
+  ""tags"": [
+    ""Delayed Reward Learning"",
+    ""Pigeon Training"",
+    ""Behavioral Reinforcement"",
+    ""Discrimination Procedures""
+  ]
+}","{
+  ""tags"": [
+    ""Delayed Reward Learning"",
+    ""Pigeon Training"",
+    ""Behavioral Reinforcement"",
+    ""Discrimination Procedures""
+  ]
+}"
+477,10,"{
+  ""tags"": [
+    ""ADHD"",
+    ""Cognitive Control"",
+    ""Delay Discounting"",
+    ""Girls with ADHD""
+  ]
+}","{
+  ""tags"": [
+    ""ADHD"",
+    ""Cognitive Control"",
+    ""Delay Discounting"",
+    ""Girls with ADHD""
+  ]
+}"
+478,10,"{
+  ""tags"": [
+    ""delayed reinforcement"",
+    ""action discovery"",
+    ""motor learning"",
+    ""time stamp""
+  ]
+}","{
+  ""tags"": [
+    ""delayed reinforcement"",
+    ""action discovery"",
+    ""motor learning"",
+    ""time stamp""
+  ]
+}"
+479,10,"{
+  ""tags"": [
+    ""choice"",
+    ""reinforcement"",
+    ""behavioral"",
+    ""concurrent-chains"",
+    ""reliability"",
+    ""unreliability"",
+    ""percentage-reinforcement"",
+    ""delay-reduction"",
+    ""delay""
+  ]
+}","{
+  ""tags"": [
+    ""choice"",
+    ""reinforcement"",
+    ""behavioral"",
+    ""concurrent-chains"",
+    ""reliability"",
+    ""unreliability"",
+    ""percentage-reinforcement"",
+    ""delay-reduction"",
+    ""delay""
+  ]
+}"
+480,10,"{
+  ""tags"": [
+    ""delay and probability"",
+    ""hyperbolic discounting"",
+    ""temporal discounting"",
+    ""h/k constant"",
+    ""Rachlin et al. (1991)""
+  ]
+}","{
+  ""tags"": [
+    ""delay and probability"",
+    ""hyperbolic discounting"",
+    ""temporal discounting"",
+    ""h/k constant"",
+    ""Rachlin et al. (1991)""
+  ]
+}"
+481,10,"{
+  ""tags"": [
+    ""Human free-operant performance"",
+    ""Task scheduling"",
+    ""Probability learning"",
+    ""Schedule consistency""
+  ]
+}","{
+  ""tags"": [
+    ""Human free-operant performance"",
+    ""Task scheduling"",
+    ""Probability learning"",
+    ""Schedule consistency""
+  ]
+}"
+482,10,"{
+  ""tags"": [
+    ""Hyperbolic Discounting"",
+    ""Impulsive Choice"",
+    ""Psychology"",
+    ""Behavioral Science""
+  ]
+}","{
+  ""tags"": [
+    ""Hyperbolic Discounting"",
+    ""Impulsive Choice"",
+    ""Psychology"",
+    ""Behavioral Science""
+  ]
+}"
+483,10,"{
+  ""tags"": [
+    ""Children's Choice Sensitivity Reinforcer Density"",
+    ""Behavioral Reinforcement Learning"",
+    ""Choice Paradigm"",
+    ""Adaptive Intertemporal Choice""
+  ]
+}","{
+  ""tags"": [
+    ""Children's Choice Sensitivity Reinforcer Density"",
+    ""Behavioral Reinforcement Learning"",
+    ""Choice Paradigm"",
+    ""Adaptive Intertemporal Choice""
+  ]
+}"
+484,10,"{
+  ""tags"": [
+    ""Intertemporal Decisions"",
+    ""Experience-Based"",
+    ""Description-Based"",
+    ""Intertemporal Effects""
+  ]
+}","{
+  ""tags"": [
+    ""Intertemporal Decisions"",
+    ""Experience-Based"",
+    ""Description-Based"",
+    ""Intertemporal Effects""
+  ]
+}"
+485,10,"{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Attractor Dynamics"",
+    ""Decision Process"",
+    ""Trial-by-Trial Dynamics""
+  ]
+}","{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Attractor Dynamics"",
+    ""Decision Process"",
+    ""Trial-by-Trial Dynamics""
+  ]
+}"
+486,10,"{
+  ""tags"": [
+    ""Reward Contrast"",
+    ""Delay Discounting"",
+    ""Probability Discounting"",
+    ""Subjective Value""
+  ]
+}","{
+  ""tags"": [
+    ""Reward Contrast"",
+    ""Delay Discounting"",
+    ""Probability Discounting"",
+    ""Subjective Value""
+  ]
+}"
+487,10,"{
+  ""tags"": [
+    ""ADHD Symptoms"",
+    ""Choice Impulsivity"",
+    ""Delay Aversion"",
+    ""Behavioral Inattention""
+  ]
+}","{
+  ""tags"": [
+    ""ADHD Symptoms"",
+    ""Choice Impulsivity"",
+    ""Delay Aversion"",
+    ""Behavioral Inattention""
+  ]
+}"
+488,10,"{
+  ""tags"": [
+    ""Bipolar Disorder"",
+    ""Impulsivity"",
+    ""Reward-Oriented"",
+    ""Ageing"",
+    ""Neuropsychological Tests""
+  ]
+}","{
+  ""tags"": [
+    ""Bipolar Disorder"",
+    ""Impulsivity"",
+    ""Reward-Oriented"",
+    ""Ageing"",
+    ""Neuropsychological Tests""
+  ]
+}"
+489,10,"{
+  ""tags"": [
+    ""sunk cost effect"",
+    ""human decision making"",
+    ""reinforcement learning"",
+    ""behavioral economics""
+  ]
+}","{
+  ""tags"": [
+    ""sunk cost effect"",
+    ""human decision making"",
+    ""reinforcement learning"",
+    ""behavioral economics""
+  ]
+}"
+490,10,"{
+  ""tags"": [
+    ""Conflict Mindset"",
+    ""Delay Discounting"",
+    ""Self-Control Decision-Making"",
+    ""Trait Measures of Self-Control""
+  ]
+}","{
+  ""tags"": [
+    ""Conflict Mindset"",
+    ""Delay Discounting"",
+    ""Self-Control Decision-Making"",
+    ""Trait Measures of Self-Control""
+  ]
+}"
+491,10,"{
+  ""tags"": [
+    ""precommitment"",
+    ""impulsivity"",
+    ""reinforcement"",
+    ""decision-making"",
+    ""hyperbolic-discounting""
+  ]
+}","{
+  ""tags"": [
+    ""precommitment"",
+    ""impulsivity"",
+    ""reinforcement"",
+    ""decision-making"",
+    ""hyperbolic-discounting""
+  ]
+}"
+492,10,"{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Behavioral Economics"",
+    ""Temporal Distance"",
+    ""Spatial Distance""
+  ]
+}","{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Behavioral Economics"",
+    ""Temporal Distance"",
+    ""Spatial Distance""
+  ]
+}"
+493,10,"{
+  ""tags"": [
+    ""Hyperbolic Discounting"",
+    ""Reward Sequences"",
+    ""Exponential Discounting"",
+    ""Behavioral Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Hyperbolic Discounting"",
+    ""Reward Sequences"",
+    ""Exponential Discounting"",
+    ""Behavioral Reinforcement Learning""
+  ]
+}"
+494,10,"{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Hypothetical Monetary Rewards"",
+    ""Decoy Effect"",
+    ""Value-Based Decision Making""
+  ]
+}","{
+  ""tags"": [
+    ""Delay Discounting"",
+    ""Hypothetical Monetary Rewards"",
+    ""Decoy Effect"",
+    ""Value-Based Decision Making""
+  ]
+}"
+495,10,"{
+  ""tags"": [
+    ""Delay of Gratification"",
+    ""Executive Function"",
+    ""Aging"",
+    ""Reward-Based Decision-Making""
+  ]
+}","{
+  ""tags"": [
+    ""Delay of Gratification"",
+    ""Executive Function"",
+    ""Aging"",
+    ""Reward-Based Decision-Making""
+  ]
+}"
+496,10,"{
+  ""tags"": [
+    ""Human Choices"",
+    ""Time-Based Diminishing Returns"",
+    ""Optimality Theory"",
+    ""Behavioral Reinforcement Learning""
+  ]
+}","{
+  ""tags"": [
+    ""Human Choices"",
+    ""Time-Based Diminishing Returns"",
+    ""Optimality Theory"",
+    ""Behavioral Reinforcement Learning""
+  ]
+}"
+497,10,"{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Pigeon Decision Making"",
+    ""Probabilistic Choice"",
+    ""Conditional Reinforcement""
+  ]
+}","{
+  ""tags"": [
+    ""Behavioral Reinforcement Learning"",
+    ""Pigeon Decision Making"",
+    ""Probabilistic Choice"",
+    ""Conditional Reinforcement""
+  ]
+}"
+498,10,"{
+  ""tags"": [
+    ""Impulsivity in borderline personality disorder"",
+    ""Reward-based decision-making"",
+    ""Emotional distress"",
+    ""Delay discounting"",
+    ""Barratt Impulsiveness Scale""
+  ]
+}","{
+  ""tags"": [
+    ""Impulsivity in borderline personality disorder"",
+    ""Reward-based decision-making"",
+    ""Emotional distress"",
+    ""Delay discounting"",
+    ""Barratt Impulsiveness Scale""
+  ]
+}"
+499,10,"{
+  ""tags"": [
+    ""reward optimization"",
+    ""video game"",
+    ""behavioral reinforcement"",
+    ""reward rate maximization""
+  ]
+}","{
+  ""tags"": [
+    ""reward optimization"",
+    ""video game"",
+    ""behavioral reinforcement"",
+    ""reward rate maximization""
+  ]
+}"
