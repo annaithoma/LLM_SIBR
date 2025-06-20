@@ -7,7 +7,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) & [Anna Thoma]
 
 ## Exercises
 * Exercise 1: [Evaluating semantic similarity (embedding models)](https://github.com/annaithoma/LLM_SIBR/blob/main/1_embeddings_map.ipynb)
-* Exercise 2: [Extracting topics](https://github.com/annaithoma/LLM_SIBR/blob/main/1_embeddings_map.ipynb)
+* Exercise 2: [Extracting topics](https://github.com/annaithoma/LLM_SIBR/blob/main/2_tag_extraction.ipynb))
 
 ## Installation
 This instruction was written by [Zak Hussain](https://github.com/Zak-Hussain), who has other cool stuff to try out on his GitHub!
