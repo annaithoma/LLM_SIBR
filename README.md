@@ -3,11 +3,11 @@
 # LLMS FOR METASCIENCE: MAPPING RESEARCH LANDSCAPES
 This repository contains the workshop material for "LLMS FOR METASCIENCE: MAPPING RESEARCH LANDSCAPES" at the Summer Institute for Bounded Rationality. The workshop contains a mix of short introductory talks, discussions, and exercises.
 
-By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) & [Anna Thoma](https://www.mpib-berlin.mpg.de/staff/anna-thoma). 
+By [Anna Thoma](https://www.mpib-berlin.mpg.de/staff/anna-thoma) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549). 
 
 ## Exercises
 * Exercise 1: [Evaluating semantic similarity (embedding models)](https://github.com/annaithoma/LLM_SIBR/blob/main/1_embeddings_map.ipynb)
-* Exercise 2: [Extracting topics](https://github.com/annaithoma/LLM_SIBR/blob/main/2_tag_extraction.ipynb))
+* Exercise 2: [Extracting topics](https://github.com/annaithoma/LLM_SIBR/blob/main/2_tag_extraction.ipynb)
 
 ## Installation
 This instruction was written by [Zak Hussain](https://github.com/Zak-Hussain), who has other cool stuff to try out on his GitHub!
